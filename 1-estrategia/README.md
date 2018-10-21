@@ -1,11 +1,11 @@
-
 ## NECESIDADES DEL USUARIO
 
 ### Investigación de usuarios
 Como bien hemos comentado, nuestro proyecto web es crear una página web relacionada con la **igualdad de género**. En esta página web se encontrarán noticias, reportajes, datos, videos, etc. Todo el contenido hallado en este sitio web tendrá el siguiente objetivo: informar y educar. 
+
 En cuanto a nuestro público objetivo creemos que es bastante amplio, ya que tanto mujeres como hombres mayores de 18 años podrían tener interés en acceder a nuestra página web. Pero antes de crear nuestro producto debemos conocer a nuestros usuarios y sobre todo debemos percibir al máximo sus necesidades. ¿Pero cuáles son esas necesidades? 
 
-Para averiguar las necesidades del usuario hemos optado por crear una **encuesta**.Mediante la encuesta conoceremos al usuario, o posible cliente, y averiguaremos sus necesidades para poder adaptarnos y ofrecerles lo que necesitan. Los cuatro conceptos claves para afrontar una encuesta y ofrecer realmente un servicio útil son: la empatía, la escucha,la observación y finalmente la obtención de conclusiones. 
+Para averiguar las necesidades del usuario hemos optado por crear una **encuesta**. Mediante la encuesta conoceremos al usuario, o posible cliente, y averiguaremos sus necesidades para poder adaptarnos y ofrecerles lo que necesitan. Los cuatro conceptos claves para afrontar una encuesta y ofrecer realmente un servicio útil son: la empatía, la escucha,la observación y finalmente la obtención de conclusiones. 
 
 ### Características de una encuesta
 Antes de crear la encuesta hay que tener varias cosas en cuenta:
@@ -52,13 +52,3 @@ Como bien hemos comentado en el anterior apartado, hemos realizado la encuesta a
 - Las **historias de casos reales** son el contenido que más interesa en relación a la igualdad de género.
 
 - En el apartado de “atención al cliente”, es imprescindible añadir un **e-mail** para que los clientes se puedan poner en **contacto**, es la forma más demandada. 
-
-
-## PERSONAS
-HOLA SOY YO
-
-## LEAN UX-CANVAS
-
-(plantilla/modelo en el documento `lean-ux-canvas.md`)
-
-## REFERENCIAS BIBLIOGRÁFICAS
