@@ -74,7 +74,6 @@ Creemos que a través de los siguientes indicadores de éxito podremos comprobar
 Como bien hemos comentado, nuestro proyecto web es crear una página web relacionada con la **igualdad de género**. En esta página web se encontrarán noticias, reportajes, datos, videos, etc. Todo el contenido hallado en este sitio web tendrá el siguiente objetivo: informar y educar. 
 En cuanto a nuestro público objetivo creemos que es bastante amplio, ya que tanto mujeres como hombres mayores de 18 años podrían tener interés en acceder a nuestra página web. Pero antes de crear nuestro producto debemos conocer a nuestros usuarios y sobre todo debemos percibir al máximo sus necesidades. ¿Pero cuáles son esas necesidades? 
 
-<<<<<<< HEAD
 ## Personas
 
 Mediante el uso de personas vamos a representar a los posibles personajes que van a usar el sitio web que vamos a diseñar. De esta forma no solo representamos a una persona sino al conjunto de las mismas, recogemos sus conductas, habilidades, actitudes de nuestros posibles usuarios potenciales. Este proceso nos va a ayudar mucho a la hora de elaborar nuestra interfaz ya que diseñaremos la misma en función de las necesidades de nuestros usuarios. 
