@@ -57,44 +57,43 @@ A continuación se presentan los requisitos de funcionamiento especificos de cad
 #### 4.1.1. Usuario no registrado.
 El usuario no registrado lo describiriamos como el visitante ocasional y dispondrá de los siguientes requisitos funcionales: 
 
-* **Acceso al contenido público:** este usuario tendrá acceso a todo el contenido que esté oficialmente publicado en el sitio web. No tendrá que registrarse para poder consumir nuestro contenido. Tendrá acceso a: noticias, reportajes, articulos, entrevistas, historias reales, consejos, quiénes somos y contacto.
+  * **Acceso al contenido público:** este usuario tendrá acceso a todo el contenido que esté oficialmente publicado en el sitio web. No tendrá que registrarse para poder consumir nuestro contenido. Tendrá acceso a: noticias, reportajes, articulos, entrevistas, historias reales, consejos, quiénes somos y contacto.
 
-* **Registrarse:** tendrán la opción disponible para registrarse en *hoyportimañanapormi.com* opción para convertirse en un usuario voluntario. 
+  * **Registrarse:** tendrán la opción disponible para registrarse en *hoyportimañanapormi.com* opción para convertirse en un usuario voluntario. 
 
 
 #### 4.1.2. Usuario voluntario (registrado)
 El usuario registrado heredará las funcionalidades del usuario no registrado y dispondrá de nuevos requisitos funcionales:
 
-* **Registrarse:** deberan rellenar un formulario con los datos necesario y aceptar los términos legales sobre difusión y gestión de datos. 
+  * **Registrarse:** deberan rellenar un formulario con los datos necesario y aceptar los términos legales sobre difusión y gestión de datos. 
 
-* **Autentificarse:** para poder acceder al contenido los usuarios voluntarios deberan hacer un log-in (usuario y contraseña).
+  * **Autentificarse:** para poder acceder al contenido los usuarios voluntarios deberan hacer un log-in (usuario y contraseña).
 
-* **Realizar comentarios de mejoras y cambios:** la página web tendrá una funcionalidad para que los usuarios puedan realizar comentarios (privados) de mejoras o cambios en el contenido público. 
+  * **Realizar comentarios de mejoras y cambios:** la página web tendrá una funcionalidad para que los usuarios puedan realizar comentarios (privados) de mejoras o cambios en el contenido público. 
 
-* **Compartir información:** los usuarios voluntarios podrán compartir contenido relacionado con la igualdad de género. Para ello, tendrán una lugar específico donde poder adjuntar la información. 
+  * **Compartir información:** los usuarios voluntarios podrán compartir contenido relacionado con la igualdad de género. Para ello, tendrán una lugar específico donde poder adjuntar la información. 
 
 
 #### 4.1.3. Usuario administrador
 El usuario administrador heredará las funcionalidades disponibles para los iveles inferiroes de usuario de la página web, y además dispondrá de los siguinetes requisitos funcionales:
 
-Gestor de contenido:
-* **Agregar contenido**
-* **Editar contenido**
-* **Eliminar contenido**
+- **Gestor de contenido:**
+  * **Agregar contenido**
+  * **Editar contenido**
+  * **Eliminar contenido**
 
 
-Gestor de los perfiles registrados:
-* **Gestión de perfiles:** el administrador, en el caso que sea necesario, podrá cambiar las funcionalidades concretas del usuario voluntario o incluso añadir nuevas.
-Gestión de la base de datos: el administrado del sitio web tiene acceso a la base de datos de los perfiles registrados. 
+- **Gestor de los perfiles registrados:**
+  * **Gestión de perfiles:** el administrador, en el caso que sea necesario, podrá cambiar las funcionalidades concretas del usuario voluntario o incluso añadir nuevas.
+  Gestión de la base de datos: el administrado del sitio web tiene acceso a la base de datos de los perfiles registrados. 
 
-* **Gestión del contenido adjuntado por el usuario voluntario:** el administrador será quien analice el contenido compartido por los usuarios voluntarios y también será quien decida qué contenido se publicará y cuál no. 
+  * **Gestión del contenido adjuntado por el usuario voluntario:** el administrador será quien analice el contenido compartido por los usuarios voluntarios y también será quien decida qué contenido se publicará y cuál no. 
 
-* **Gestión de incidencias:** teniendo en cuenta que el administrador tiene acceso a la base de datos de los perfiles resgistrados, este gestionará posibles incidencias que ocurran durante el funcionamiento del sitio web (dar de baja usuarios, eliminar contenido, etc.).
+  * **Gestión de incidencias:** teniendo en cuenta que el administrador tiene acceso a la base de datos de los perfiles resgistrados, este gestionará posibles incidencias que ocurran durante el funcionamiento del sitio web (dar de baja usuarios, eliminar contenido, etc.).
 
 
-Gestión de la configuración del sitio web:
-
-El **resto de tareas** relacionadas con el sitio web serán responsabilidad del usuario administrador: configuración de contenido, diseño, etc. 
+- **Gestor de la configuración del sitio web:**
+  * El **resto de tareas** relacionadas con el sitio web serán responsabilidad del usuario administrador: configuración de contenido, diseño, etc. 
 
 
 
