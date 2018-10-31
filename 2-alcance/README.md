@@ -16,14 +16,14 @@ Las especificaciones funcionales hacen referencia al comportamiento de, en nuest
 									
 > **- CONFIDENCIAL -**
 
-### 1. Generalidades
+### 1. GENERALIDADES
 *Hoyportimañanapormi.com* es un servicio, vía web, que ofrece contenido informativo y educativo sobre la igualdad de género. En el portal web se encontrarán noticias, reportajes, entrevistas, etc., y todas ellas relacionadas con la igualdad de género. 
 
 El sitio web necesitará un usuario gestor de contenidos, es decir un usuario administrador que se encargará de actualizar todo el contenido de la página. Por otro lado, existirá un usuario voluntario que trata de aquellos usuarios que quieran formar parte de este proyecto y quieran proporcionar información interesante relacionada con la igualdad de género. Por supuesto esa información tendrá que pasar por la supervisión del usuario administrador; el cual decidirá añadir o no el contenido. Y finalmente, se encuentra el usuario no registrado que será aquel que entre al sitio web y que consuma nuestro contenido sin tener que registrarse. 
 
 La pagina web estará divida en dos partes: la información estática (contacto, quiénes somos, log-in)  y la información dinámica (noticias, articulos, reportajes, entrevistas, historias reales, consejos).
 
-### 2. Escenarios
+### 2. ESCENARIOS
 En este apartado crearemos ciertos escenarios supuestos donde imaginaremos el uso que le pueden dar nuestros usuarios a nuestro sitio web. A continuación se encuentran los siguientes escenarios:
 
 #### 2.1. Escenario 1: Paula y su desconocimiento
@@ -35,7 +35,7 @@ Paula encuentra un sitio web que muestra la realidad de la sociedad ante la igua
 
 #### 2.3. Escenario 3: Dolores y sus ganas de aprender
 
-### 3. No objetivos
+### 3. NO OBJETIVOS
 Esta versión *no* incluirá las siguientes funciones:
 
 * Compra de productos
@@ -44,7 +44,7 @@ Esta versión *no* incluirá las siguientes funciones:
 * Un lugar físico de contacto (oficina)
 * Opción de consumir contenido únicamente estando registrado
 
-### 4. Detalles
+### 4. DETALLES
 #### 4.1. Requisitos funcionales de usuarios
 Como se ha comentado en el anterior apartado, la página web dispondrá inicialmente de 3 perfiles de usuario distinto (usuario administrador, usuario voluntario y usuario no registrado), cada uno con requisitos funcinales específicos.
 
