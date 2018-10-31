@@ -7,13 +7,14 @@
 ## ESPECIFICACIONES FUNCIONALES
 Las especificaciones funcionales hacen referencia al comportamiento de, en nuestro caso, una página web relacionada con la igualdad de género. La página web se llama Hoyportimañanapormi.com y en ella se encuentra contenido de todo tipo: noticias, reportajes, entrevistas, artículos, historias, consejos, etc.
 
-								HOYPORTIMAÑANAPORMI.COM
-								Especificación Funcional
+### HOYPORTIMAÑANAPORMI.COM
+**Especificación Funcional**
 
-									Petunia Flores
-						Última actualización: 4 de noviembre, 2018
+Petunia Flores
+*Última actualización: 4 de noviembre, 2018*
 									
-									- CONFIDENCIAL -
+**- CONFIDENCIAL -**
+
 ### 1. Generalidades
 *Hoyportimañanapormi.com* es un servicio, vía web, que ofrece contenido informativo y educativo sobre la igualdad de género. En el portal web se encontrarán noticias, reportajes, entrevistas, etc., y todas ellas relacionadas con la igualdad de género. 
 
@@ -48,7 +49,7 @@ Como se ha comentado en el anterior apartado, la página web dispondrá inicialm
 
 Así mismo, existirán 3 niveles jerarquicos: el primer nivel está formado por el usuario no registrado, el segundo nivel por el usuario voluntario y finalmente el tercer nivel por el usuario administrador del sitio web. Los usuarios de cada nivel tendrán asignadas sus funcionalidades pero también heredarán las de los niveles inferiores (el usuario administrador podrá acceder a las funcionalidades del voluntario y del no registrado; y el usuario voluntario podrá acceder a las del usuario no registrado). En la siguiente imagen se muestra la relación entre niveles. 
 
-![Niveles de usuarios](/2-alcance/Niveles de usuarios.png)
+![Niveles de usuarios](Niveles de usuarios.png)
 
 A continuación se presentan los requisitos de funcionamiento especificos de cada perfil de usuario.
 
@@ -75,12 +76,12 @@ El usuario registrado heredará las funcionalidades del usuario no registrado y 
 ##### 4.1.3. Usuario administrador
 El usuario administrador heredará las funcionalidades disponibles para los iveles inferiroes de usuario de la página web, y además dispondrá de los siguinetes requisitos funcionales:
 
-- **Gestor de contenido**:
+**Gestor de contenido**:
 * **Agregar contenido**
 * **Editar contenido**
 * **Eliminar contenido**
 
--**Gestor de los perfiles registrados**:
+**Gestor de los perfiles registrados**:
 * **Gestión de perfiles:** el administrador, en el caso que sea necesario, podrá cambiar las funcionalidades concretas del usuario voluntario o incluso añadir nuevas.
 Gestión de la base de datos: el administrado del sitio web tiene acceso a la base de datos de los perfiles registrados. 
 
@@ -88,7 +89,7 @@ Gestión de la base de datos: el administrado del sitio web tiene acceso a la ba
 
 * **Gestión de incidencias:** teniendo en cuenta que el administrador tiene acceso a la base de datos de los perfiles resgistrados, este gestionará posibles incidencias que ocurran durante el funcionamiento del sitio web (dar de baja usuarios, eliminar contenido, etc.).
 
--**Gestión de la configuración del sitio web**:
+**Gestión de la configuración del sitio web**:
 El **resto de tareas** relacionadas con el sitio web serán responsabilidad del usuario administrador: configuración de contenido, diseño, etc. 
 
 
