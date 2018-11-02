@@ -8,7 +8,7 @@
 
 ## REQUERIMIENTOS DE CONTENIDOS
 
-#### Contenido
+### Contenido
 El contenido se divide en diferentes etapas:
 
 #### Audiencia
