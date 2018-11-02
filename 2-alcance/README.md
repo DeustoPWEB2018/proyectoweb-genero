@@ -23,7 +23,7 @@ En lo que al detalle se refiere, queremos resaltar que vamos a dedicar especial 
 #### Temas
 
 
-![Topic Map](2-alcance\topicmap.png)
+![Topic Map](2-alcance\topicmap.PNG)
 
 #### Propósito
 Principalmente, nuestros propósitos a cumplir serán los siguientes:
