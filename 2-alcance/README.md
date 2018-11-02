@@ -65,4 +65,3 @@ Según Lee Thomas, es necesario seguir los siguientes criterios para priorizar e
 * Alsilla Morino, Joan. Diseño e implementación de un portal web para una empresa de sistemas de control de iluminación. Universitat Autònoma de Barcelona. 2009. Disponible online: https://ddd.uab.cat/pub/trerecpro/2010/hdl_2072_48072/AlsinaMorilloJoanR-ETISa2008-09.pdf
   
 * Spolsky, Joel. Especificación funcional Quéhoraes.com. Disponible online: https://web.archive.org/web/20160604182621/http://spanish.joelonsoftware.com/PainlessSpecs/WhatTimeIsIt_Spanish.html 
-### Slow Content 
