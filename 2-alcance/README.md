@@ -22,7 +22,7 @@ En lo que al detalle se refiere, es resaltable que se le va a dedicar especial a
  
 #### Temas
 
-![Topic Map](2-alcance\topicmap.PNG)
+![Topic Map](https://github.com/DeustoPWEB2018/proyectoweb-genero/blob/HernandezArrizabalaga-alcance/2-alcance/topicmap.PNG)
 
 #### Propósito
 Principalmente, los propósitos a cumplir serán los siguientes:
