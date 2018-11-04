@@ -59,6 +59,33 @@ Según Lee Thomas, es necesario seguir los siguientes criterios para priorizar e
 * Ingresos: Es evidente que existirá una retroalimentación entre el éxito obtenido a través de la audiencia del sitio web y las posibilidades de contratar anunciantes, así como la posibilidad de abarcar más temas, más conceptos y más hechos que interesen a nuestra audiencia. 
 
 
+Estructura:
+
+1. Primeras decisiones:
+
+Canal: Página web.
+
+Plataforma: Utilizaremos la más que conocida herramienta Wordpress.
+
+Formato: La página web será un entorno multimedia donde tanto artículos, como podcasts, como video reportajes tendrán lugar. Por ello, consideramos nuestra página web como multiformato.
+
+Mensaje Clave: Trataremos de crear un sentimiento de pertenencia a nuestra web y nuestra labor a través de los hechos que narraremos y a los que daremos foco. Serán temas sobre igualdad de género, un tema en el que muchas personas están involucradas de antemano. Nosotros les daremos un portal donde todo se junte.
+
+2. Navegación:
+
+Nomenclatura: La web irá dividida por secciones muy definidas. Por un lado tendremos la sección de Noticias, donde la prensa escrita será la reina. En segundo lugar encontraremos la sección Reportajes, donde los contenidos audiovisuales tendrán su espacio. Por último, también dispondremos de una sección de podcasts, aún por definir, en la que incluiremos todo el material radiofónico que creemos.
+
+Hipervínculos: Todas y cada una de nuestras entradas dispondrá de links tanto al contenido como a las diferentes fuentes utilizadas para consultar los contenidos generados. Además, también enlazaremos nuestras respectivas cuentas de Twitter, Facebook e Instagram en aras de aumentar el volumen de material compartido en la red.
+
+Microcopias: Trataremos de utilizar esta herramienta en aquellas ocasiones en las que el material sea sensible o deba guardarse un mínimo de respeto por el mismo. Además, en la zona de registro añadiremos pequeños textos explicativos donde ayudaremos al usuario a llevar a cabo el trabajo.
+
+Etiquetas: Exigiremos a nuestros redactores un mínimo de 10 etiquetas por cada contenido subido, para así poder darle un uso adecuado a la barra de búsqueda que situaremos dentro de la propia página.
+
+3. Herramientas útiles:
+
+Mapa del sitio: Aún por definir cual será la estructura final de nuestra web al 100%, trazaremos un minucioso mapa del sitio. Con ello, ayudaremos a los desarrolladores a poder localizarse de manera sencilla, además de servirnos para generar una tabla de página en la que llevar todo a un nivel superior.
+
+
 ### REFERENCIAS
 
 * Alsilla Morino, Joan. Diseño e implementación de un portal web para una empresa de sistemas de control de iluminación. Universitat Autònoma de Barcelona. 2009. Disponible online: https://ddd.uab.cat/pub/trerecpro/2010/hdl_2072_48072/AlsinaMorilloJoanR-ETISa2008-09.pdf
