@@ -11,7 +11,7 @@ Las especificaciones funcionales hacen referencia al comportamiento de, en nuest
 > Petunia Flores
 
 > *Última actualización: 4 de noviembre, 2018*
-									
+                  
 > **- CONFIDENCIAL -**
 
 ### 1. GENERALIDADES
@@ -109,7 +109,7 @@ En lo que al detalle se refiere, es resaltable que se le va a dedicar especial a
  
 #### Temas
 
-![Topic Map](https://github.com/DeustoPWEB2018/proyectoweb-genero/blob/HernandezArrizabalaga-alcance/2-alcance/topicmap.PNG)
+![Topic Map](2-alcance\topicmap.PNG)
 
 #### Propósito
 Principalmente, los propósitos a cumplir serán los siguientes:
