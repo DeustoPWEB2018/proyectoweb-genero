@@ -2,10 +2,10 @@
 
 ## INTRODUCCIÓN
 
-En el siguiente apartado, vamos a especificar la estructura del alcance que tendrá nuestro sitio web. El contenido se dividirá en dos fragmentos principales, como son las especificaciones funcionales y los requerimientos de contenido.
+En el siguiente apartado, se va a especificar la estructura del alcance que tendrá el sitio web. El contenido se dividirá en dos fragmentos principales, como son las especificaciones funcionales y los requerimientos de contenido.
 
 ## ESPECIFICACIONES FUNCIONALES
-Las especificaciones funcionales hacen referencia al comportamiento de, en nuestro caso, una página web relacionada con la igualdad de género. La página web se llama Hoyportimañanapormi.com y en ella se encuentra contenido de todo tipo: noticias, reportajes, entrevistas, artículos, historias, consejos, etc.
+Las especificaciones funcionales hacen referencia al comportamiento de, en este caso, una página web relacionada con la igualdad de género. La página web se llama Hoyportimañanapormi.com y en ella se encuentra contenido de todo tipo: noticias, reportajes, entrevistas, artículos, historias, consejos, etc.
 
 ## HOYPORTIMAÑANAPORMI.COM
 > **Especificación Funcional**
@@ -19,12 +19,12 @@ Las especificaciones funcionales hacen referencia al comportamiento de, en nuest
 ### 1. GENERALIDADES
 *Hoyportimañanapormi.com* es un servicio, vía web, que ofrece contenido informativo y educativo sobre la igualdad de género. En el portal web se encontrarán noticias, reportajes, entrevistas, etc., y todas ellas relacionadas con la igualdad de género. 
 
-El sitio web necesitará un usuario gestor de contenidos, es decir un usuario administrador que se encargará de actualizar todo el contenido de la página. Por otro lado, existirá un usuario voluntario que trata de aquellos usuarios que quieran formar parte de este proyecto y quieran proporcionar información interesante relacionada con la igualdad de género. Por supuesto esa información tendrá que pasar por la supervisión del usuario administrador; el cual decidirá añadir o no el contenido. Y finalmente, se encuentra el usuario no registrado que será aquel que entre al sitio web y que consuma nuestro contenido sin tener que registrarse. 
+El sitio web necesitará un usuario gestor de contenidos, es decir un usuario administrador que se encargará de actualizar todo el contenido de la página. Por otro lado, existirá un usuario voluntario que trata de aquellos usuarios que quieran formar parte de este proyecto y quieran proporcionar información interesante relacionada con la igualdad de género. Por supuesto esa información tendrá que pasar por la supervisión del usuario administrador; el cual decidirá añadir o no el contenido. Y finalmente, se encuentra el usuario no registrado que será aquel que entre al sitio web y que consuma el contenido sin tener que registrarse. 
 
 La pagina web estará divida en dos partes: la información estática (contacto, quiénes somos, log-in)  y la información dinámica (noticias, articulos, reportajes, entrevistas, historias reales, consejos).
 
 ### 2. ESCENARIOS
-En este apartado crearemos ciertos escenarios supuestos donde imaginaremos el uso que le pueden dar nuestros usuarios a nuestro sitio web. A continuación se encuentran los siguientes escenarios:
+En este apartado se han creado tres escenarios supuestos donde se imagina el uso que le pueden dar los usuarios del sitio web. A continuación se encuentran los siguientes escenarios:
 
 #### 2.1. Escenario 1: Paula y su desconocimiento
 Paula tiene 43 años, es directora informática de BOSCH Bilbao pero no todo es perfecto. Se encuentra dentro de una relación sentimental un tanto tóxica o eso empieza a sentir ella. No se atreve a hablar con su entorno sobre las situaciones que está viviendo con su actual pareja. Y como no tiene donde refugiarse decide sumergirse en Internet. En una de sus redes sociales (Facebook), allí encuentra una publicación que ha compartido una amiga suya y que trata sobre un sitio web donde tratan contenido relacionado con la igualdad de género; pero sobre todo es un lugar de refugio, ayuda y consejo. En consecuencia, Paula decide hacer clic en el enlace y entrar en hoyportimañanapormi.com. 
@@ -60,9 +60,9 @@ Así mismo, existirán 3 niveles jerarquicos: el primer nivel está formado por 
 A continuación se presentan los requisitos de funcionamiento especificos de cada perfil de usuario.
 
 #### 4.1.1. Usuario no registrado.
-El usuario no registrado lo describiriamos como el visitante ocasional y dispondrá de los siguientes requisitos funcionales: 
+El usuario no registrado se describe como el visitante ocasional y dispondrá de los siguientes requisitos funcionales: 
 
-  * **Acceso al contenido público:** este usuario tendrá acceso a todo el contenido que esté oficialmente publicado en el sitio web. No tendrá que registrarse para poder consumir nuestro contenido. Tendrá acceso a: noticias, reportajes, articulos, entrevistas, historias reales, consejos, quiénes somos y contacto.
+  * **Acceso al contenido público:** este usuario tendrá acceso a todo el contenido que esté oficialmente publicado en el sitio web. No tendrá que registrarse para poder consumir el contenido. Tendrá acceso a: noticias, reportajes, articulos, entrevistas, historias reales, consejos, quiénes somos y contacto.
 
   * **Registrarse:** tendrán la opción disponible para registrarse en *hoyportimañanapormi.com* opción para convertirse en un usuario voluntario. 
 
@@ -90,7 +90,8 @@ El usuario administrador heredará las funcionalidades disponibles para los ivel
 
 - **Gestor de los perfiles registrados:**
   * **Gestión de perfiles:** el administrador, en el caso que sea necesario, podrá cambiar las funcionalidades concretas del usuario voluntario o incluso añadir nuevas.
-  Gestión de la base de datos: el administrado del sitio web tiene acceso a la base de datos de los perfiles registrados. 
+  
+  * **Gestión de la base de datos:** el administrado del sitio web tiene acceso a la base de datos de los perfiles registrados. 
 
   * **Gestión del contenido adjuntado por el usuario voluntario:** el administrador será quien analice el contenido compartido por los usuarios voluntarios y también será quien decida qué contenido se publicará y cuál no. 
 
