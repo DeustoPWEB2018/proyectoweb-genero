@@ -2,6 +2,8 @@
 
 ## INTRODUCCIÓN
 
+En el siguiente apartado, vamos a especificar la estructura del alcance que tendrá nuestro sitio web. El contenido se dividirá en dos fragmentos principales, como son las especificaciones funcionales y los requerimientos de contenido.
+
 ## ESPECIFICACIONES FUNCIONALES
 Las especificaciones funcionales hacen referencia al comportamiento de, en nuestro caso, una página web relacionada con la igualdad de género. La página web se llama Hoyportimañanapormi.com y en ella se encuentra contenido de todo tipo: noticias, reportajes, entrevistas, artículos, historias, consejos, etc.
 
@@ -30,8 +32,13 @@ Paula tiene 43 años, es directora informática de BOSCH Bilbao pero no todo es 
 Paula encuentra un sitio web que muestra la realidad de la sociedad ante la igualdad de género, encuentra entrevistas con expertos (psicólogos, abogados) que tratan temas de violencia de género y sobre todo encuentra historias reales de otras mujeres que le hacen recapacitar que ella misma está viviendo una relación insana y que no puede permitirlo. Debido al impacto que tuvo para Paula este sitio web, decide ponerse en contacto con *hoyportimañanapormi.com* para pedir más información y para trasladarles su historia para que la publicasen con el objetivo de ayudar a otras personas como lo hicieron las historias de otras mujeres a ella. Por lo tanto, Paula es un usuario voluntario ya que se ha registrado en el sistema, cuenta con su propia cuenta y puede compartir contenido en la página web.
 
 #### 2.2. Escenario 2: Juan y su trabajo para la universidad
+Juan tiene 21 años y es un estudiante de criminología. Se encuentra en cuarto curso y en unos meses termina sus estudios universitarios. Para la universidad debe realizar un trabajo sobre diferentes casos de violencia de género y para ello decide acceder a la web hoyportimañanapormi.com. Es una página web muy completa, ya que dispone de diferentes apartados y todos muy útiles para que pueda elaborar su trabajo. En la web puede encontrar: noticias, artículos, reportajes, entrevistas, historias reales y consejos. Es una web que ya conocía de hace tiempo ya que es un tema que le interesa y le preocupa.
+
+La web le resulta muy útil (ya que su contenido es actualizado constantemente), tanto para el trabajo universitario como para enriquecerse personalmente. Pedro es un usuario no registrado que simplemente accediendo a la página web podrá encontrar todo el contenido que deseé sin tener que registrarse. El incoveniente de no estar registrado es que no podrá actualizar el contenido
 
 #### 2.3. Escenario 3: Dolores y sus ganas de aprender
+Dolores tiene 65 años y mientras horneaba un bizcoho para celebrar el cumpleaños de su amiga Encarna ha visto en las noticias un nuevo caso de desigualdad de género por parte de la empresa Inditex. A Dolores le encanta mantenerse informada y con sus escasos conocimientos de informática ha decidido indagar en su ordenador de mesa que poseé. Tecleando e investigando un poco a encontrado la página web perfecta para seguir informándose: hoyportimañanapormi.com. No es solo una página web que se mantiene en constante actualización, es facil de usar y muy legible justo lo que Dolores necesita. Dolores se ha quedado encantada con la página web y le ha parecido tan facil de usar que no ha dudado ni un segundo en registrarse para poder añadir contenido y empezar a colaborar ¡qué animada!. Por lo tanto, ha pasado de ser usuario no registrado a usuario voluntario. Dolores ya tiene una nueva página web favorita hoyportimañanapormi.com y como no, lasrecetasdemj.com.
+
 
 ### 3. NO OBJETIVOS
 Esta versión *no* incluirá las siguientes funciones:
@@ -109,7 +116,7 @@ En lo que al detalle se refiere, es resaltable que se le va a dedicar especial a
  
 #### Temas
 
-![Topic Map](2-alcance\topicmap.PNG)
+![Topic Map](https://github.com/DeustoPWEB2018/proyectoweb-genero/blob/master/2-alcance/topicmap.PNG)
 
 #### Propósito
 Principalmente, los propósitos a cumplir serán los siguientes:
@@ -144,7 +151,7 @@ Según Lee Thomas, es necesario seguir los siguientes criterios para priorizar e
 * Relevancia: El valor ofrecido debe ser distinto para los usuarios que accedan a la página web. Un contenido que no encuentren en otro sitio web, basado en la profundidad y en un contenido que sea útil para ampliar conocimiento acerca del tema, tal y como hemos explicado anteriormente en el apartado de mensaje.
 
 * Ingresos: Es evidente que existirá una retroalimentación entre el éxito obtenido a través de la audiencia del sitio web y las posibilidades de contratar anunciantes, así como la posibilidad de abarcar más temas, más conceptos y más hechos que interesen a nuestra audiencia.
- 
+
 ### Estructura:
 
 #### Primeras decisiones:
