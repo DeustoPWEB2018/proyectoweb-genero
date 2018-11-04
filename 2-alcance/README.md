@@ -143,7 +143,33 @@ Según Lee Thomas, es necesario seguir los siguientes criterios para priorizar e
 
 * Relevancia: El valor ofrecido debe ser distinto para los usuarios que accedan a la página web. Un contenido que no encuentren en otro sitio web, basado en la profundidad y en un contenido que sea útil para ampliar conocimiento acerca del tema, tal y como hemos explicado anteriormente en el apartado de mensaje.
 
-* Ingresos: Es evidente que existirá una retroalimentación entre el éxito obtenido a través de la audiencia del sitio web y las posibilidades de contratar anunciantes, así como la posibilidad de abarcar más temas, más conceptos y más hechos que interesen a nuestra audiencia. 
+* Ingresos: Es evidente que existirá una retroalimentación entre el éxito obtenido a través de la audiencia del sitio web y las posibilidades de contratar anunciantes, así como la posibilidad de abarcar más temas, más conceptos y más hechos que interesen a nuestra audiencia.
+ 
+### Estructura:
+
+#### Primeras decisiones:
+
+Canal: Página web.
+
+Plataforma: Utilizaremos la más que conocida herramienta Wordpress.
+
+Formato: La página web será un entorno multimedia donde tanto artículos, como podcasts, como video reportajes tendrán lugar. Por ello, consideramos nuestra página web como multiformato.
+
+Mensaje Clave: Trataremos de crear un sentimiento de pertenencia a nuestra web y nuestra labor a través de los hechos que narraremos y a los que daremos foco. Serán temas sobre igualdad de género, un tema en el que muchas personas están involucradas de antemano. Nosotros les daremos un portal donde todo se junte.
+
+#### Navegación:
+
+Nomenclatura: La web irá dividida por secciones muy definidas. Por un lado tendremos la sección de Noticias, donde la prensa escrita será la reina. En segundo lugar encontraremos la sección Reportajes, donde los contenidos audiovisuales tendrán su espacio. Por último, también dispondremos de una sección de podcasts, aún por definir, en la que incluiremos todo el material radiofónico que creemos.
+
+Hipervínculos: Todas y cada una de nuestras entradas dispondrá de links tanto al contenido como a las diferentes fuentes utilizadas para consultar los contenidos generados. Además, también enlazaremos nuestras respectivas cuentas de Twitter, Facebook e Instagram en aras de aumentar el volumen de material compartido en la red.
+
+Microcopias: Trataremos de utilizar esta herramienta en aquellas ocasiones en las que el material sea sensible o deba guardarse un mínimo de respeto por el mismo. Además, en la zona de registro añadiremos pequeños textos explicativos donde ayudaremos al usuario a llevar a cabo el trabajo.
+
+Etiquetas: Exigiremos a nuestros redactores un mínimo de 10 etiquetas por cada contenido subido, para así poder darle un uso adecuado a la barra de búsqueda que situaremos dentro de la propia página.
+
+#### Herramientas útiles:
+
+Mapa del sitio: Aún por definir cual será la estructura final de nuestra web al 100%, trazaremos un minucioso mapa del sitio. Con ello, ayudaremos a los desarrolladores a poder localizarse de manera sencilla, además de servirnos para generar una tabla de página en la que llevar todo a un nivel superior.
 
 
 ### REFERENCIAS
