@@ -1,3 +1,16 @@
-# Plano de estructura
+# PLANO DE ESTRUCTURA 
 
-## Referencias
+## INTRODUCCIÓN
+
+## DISEÑO DE LA INTERACCIÓN (Marina Pérez) 
+
+## ARQUITECTURA DE LA INFORMACIÓN ()
+
+### CARD SORTING (Iñigo Hernández)
+
+### CLASIFICAR EL CONTENIDO (Ander Curiel)
+
+## DIAGRAMACIÓN (Jon Cantero)
+
+### REFERENCIAS
+
