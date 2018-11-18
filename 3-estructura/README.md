@@ -2,7 +2,59 @@
 
 ## INTRODUCCIÓN
 
-## DISEÑO DE LA INTERACCIÓN (Marina Pérez) 
+## DISEÑO DE LA INTERACCIÓN
+HOYPOTIMAÑANAPORMI.COM es una página web relacionado con la igualdad de género. En este sitio web los usuarios van a poder acceder e interactuar de diversas formas y donde a continuación se detallan.  
+
+**1.	ACCEDER**
+Primeramente, se encuentra el usuario que no se ha registrado en la página web. Este usuario tendrá opción de acceder y visualizar toda la información y contenido público. En el sitio web, encontrará diferentes secciones (noticias, artículos, reportajes, entrevistas historias reales, consejos, quiénes somos) y también tendrá opción de contactar con el sitio web, opción de registrarse y opción de log in. 
+
+**2.	REGISTRARSE**
+Por otro lado, se encuentra el usuario que accede a la página web y por primera vez quiere registrarse. Para ello, accederá a la opción “regístrate” donde accederá a un formulario. El formulario contiene las siguientes cuestiones:
+
+-	Usuario
+-	Fecha de nacimiento
+-	Lugar de residencia
+-	Sexo
+-	Email  (de recuperación de contraseña)
+-	Contraseña
+
+Una vez que el usuario haya rellenado los datos correspondientes, aceptará la acción y y aparecerá a opción de “log in” donde deberá volver a añadir lo siguiente:
+
+-	Usuario
+-	Contraseña
+
+Después de hacer log in, el usuario tendrá opción de visualizar todo el contenido de la página web y también tendrá una opción donde podrá adjuntar contenido interesante que tenga intención de publicarlo en la página web (decisión final del administrador). La pestaña se llama “adjunta tus propuestas”.
+
+
+**3.	LOG IN**
+En la página principal se encuentra la opción “Log in”, a está opción accederán aquellos usuarios previamente registrados donde deberán introducir lo siguiente:
+-	Usuario
+-	Contraseña
+
+Cabe la posibilidad que el usuario en cuestión, no recuerde la contraseña, por ello tendrá la siguiente opción:
+-	He olvidado mi contraseña
+
+Cuando el usuario seleccione la opción “He olvidado mi contraseña” tendrá que introducir cual es el correo de recuperación que en su día introdujo en el registro. 
+
+-	Introducir email de recuperación
+
+Inmediatamente una nueva contraseña se enviará al correo electrónico y en el propio mensaje encontrará un enlace directo a la página “Recuperación de contraseña”:
+
+-	Usuario
+-	Contraseña de recuperación
+
+Una vez dentro, el usuario tendrá opción de acceder a todo el contenido publicado incluida a la opción llamada “Adjunta tus propuestas”:
+
+**Adjunta tus propuestas**
+Dentro de la opción adjunta tus propuestas se encuentran diferentes secciones:
+
+**-	Adjuntar:** la opción adjuntar permite adjuntar archivos de tipo PDF, Word, MP3, MPG y cuando se selecciona la opción “adjuntar” se podrá  buscar el archivo dentro del PC de cada usuario para poder subirlo al sitio web.
+
+**-	Tus propuestas:** en el apartado “tus propuestas” se encuentran todas las propuestas adjuntadas en orden cronológico. Únicamente podrá visualizar el contenido el propio usuario autor de las propuestas y el administrador que será quien haga la valoración final de publicar o no el contenido. 
+
+**-	Publicaciones:** finalmente se encuentra el apartado de publicaciones donde se encuentran, también ordenadas cronológicamente todas las propuestas finalmente publicadas. 
+
+
 
 ## ARQUITECTURA DE LA INFORMACIÓN ()
 
