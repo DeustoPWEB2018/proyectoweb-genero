@@ -62,7 +62,7 @@ Dentro de la opción adjunta tus propuestas se encuentran diferentes secciones:
 
 
 
-## ARQUITECTURA DE LA INFORMACIÓN ()
+## ARQUITECTURA DE LA INFORMACIÓN
 
 ### CARD SORTING
 
@@ -99,7 +99,23 @@ Hemos observado que han existido discrepancias notorias en los resultados obteni
  
 Principalmente ha existido una clara discrepancia entre las secciones de “Reportaje”, “Entrevistas” y “Noticias”, lo cual nos indica que, cuando llegue el momento de incluir los contenidos en su respectiva categoría, deberíamos acompañarlos por un subtítulo que se emplee a modo de enunciado, o que indique la sección a la que hace referencia, para no dar lugar a equívocos. 
 
-### CLASIFICAR EL CONTENIDO (Ander Curiel)
+### CLASIFICAR EL CONTENIDO 
+
+Tras la realización del cardsorting y en vista de los resultados obtenidos, hemos llegado a diferentes conclusiones:
+
+Por un lado, en lo que a esquemas organizativos se refiere, tenemos claro que utilizaremos un esquema ambiguo o subjetivo. Nuestra página web va a ser de actualización continua. Es decir, los contenidos van a ir actualizándose de forma periódica, por lo que no tiene sentido implantar un esquema exacto y no dinámico. 
+
+Concretamente, será un esquema de contenido por temas, siendo estos los especificados en el apartado anterior: Noticias, Reportajes, Entrevistas...
+
+Somos conscientes de que este tipo de esquema es más complicado de administrar, teniendo en cuenta que para diferentes personas diferentes noticias pueden tener diferentes clasificaciones. 
+El ejemplo más claro es lo que ocurrió en el card sorting entre los alumnos de aquí y de fuera.
+
+En cuanto a la estructura otganizativa de nuestra página web, utilizaremos un modelo de base de datos. Es decir, tenemos el contenido antes de tener nuestra estructura hecha, por lo que la estructura será claramente de abajo arriba.
+Todo ello llega impuesto en cierta medida también por los diferentes ámbitos en los que nos movemos (radio, audiovisual, prensa escrita, etc.), que son nuestra fuente de contenido principal y la base desde la que parte todo.
+
+Aún así, trataremos que desde que nuestra audiencia entre a nuestra página web, hasta el momento que encuentre lo que ha venido a buscar, el número de clicks sea el mínimo.
+
+
 
 ## DIAGRAMACIÓN
 A la hora de realizar los diagramas hemos creído conveniente crear cuatro dependiendo del usuario y de la forma en la que accederán a la web.
@@ -120,6 +136,4 @@ Primero hemos creado un diagrama general donde el usuario deberá especificar qu
 
 ![Diagrama de flujo registrate](/3-estructura/Registrate.png)
 
-
-## REFERENCIAS
 
