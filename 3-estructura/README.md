@@ -1,3 +1,3 @@
-# Plano de Estructura
+# Plano de estructura
 
 ## Referencias
