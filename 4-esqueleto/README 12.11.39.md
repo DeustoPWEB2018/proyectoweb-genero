@@ -50,28 +50,6 @@ La prueba consistía en cuestionar a cuatro individuos acerca de cuáles podían
 * ¿Dónde está el límite entre amabilidad y acoso? (consejos, opinión, anotaciones)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Creación de nuevos sistemas de etiquetado
-
-### Fuentes para crear sistemas de etiquetado
-
-A la hora de crear nuestro propio sistema de etiquetado, hemos tenido en cuenta dos factores principales: Nuestra propia web y la visión directa de los usuarios. 
-
-
 ## WIREFRAMES (JON CANTERO)
 
 ## REFERENCIAS
