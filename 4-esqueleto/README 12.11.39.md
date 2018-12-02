@@ -81,13 +81,11 @@ Además, la página también contará con un Mapa del Sitio. Con él, permitirem
 ## DISEÑO DE LA NAVEGACIÓN (ANDER CURIEL)
 
 ### Organización de ruta
+En este apartado, nuestra página contará con un elemento de localización, que permitirá a cada usuario saber dónde se encuentra en cada momento durante su navegación, pudiendo volver hacia atrás a través de esta ruta con hipervínculos.
 
+Además, la página también contará con un Mapa del Sitio. Con él, permitiremos al usuario en cuestión saltar a la página que desee.
 
 ### Navegación 
-
-
---> *Wireframe* de "Adjunta tus propuestas" (jon)
-
 Así mismo, también hemos decidido que nuestra página sea de navegación a través de barras y pestañas. Concretamente, hemos decidido que lleve un menú dinámico dentro de ella. 
 Dentro de cada temática existirán subtemas que podrán ser seleccionados a través de pop up menus. Esto hará que nuestra web posea un aspecto moderno y sencillo de llevar.
 
