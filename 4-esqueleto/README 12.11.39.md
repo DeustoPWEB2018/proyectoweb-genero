@@ -93,7 +93,7 @@ Dentro de cada temática existirán subtemas que podrán ser seleccionados a tra
 
 ## DISEÑO DE LA INFORMACIÓN 
 
-### Variedades de Etiquetas
+#### Variedades de Etiquetas
 En la Web, nos encontramos regularmente con etiquetas en un formato textual. Trataremos de usar las etiquetas de texto ya que siguen siendo las más comunes, a pesar de que los contenidos de carácter visual hayan ganado mucho peso en la web:
 
 #### Enlaces contextuales
@@ -103,9 +103,9 @@ Una buena forma de entablar relaciones textuales entre los contenidos publicados
 Incluir etiquetas a modo de encabezados podría ser una forma de solucionar posibles interrogantes a los usuarios, de modo que en todo momento tendrían conocimiento acerca de la sección a la que pertenece la página en la que se encuentran. Por ejemplo, este tipo de herramientas podría ser muy útil en la página correspondiente a cada usuario, en el panel de control de los usuarios que acceden al sitio web, concretamente.  
 En este apartado, los usuarios podrían experimentar una mayor sensación de seguridad si navegan a través de distintas páginas, siendo conocedores en todo momento de cuál es su posición en cada momento. Podría decirse que es el apartado en el cual los usuarios deberían conocer su posición de la forma más efectiva, ya que en el resto de secciones del sitio web, los apartado están claramente señalados. A pesar de ello, podría ser eficaz incluir encabezados en la parte superior de la página.    
 
-### Creación de nuevos sistemas de etiquetado
+#### Creación de nuevos sistemas de etiquetado
 
-### Fuentes para crear sistemas de etiquetado
+#### Fuentes para crear sistemas de etiquetado
 
 A la hora de crear un sistema de etiquetado, se han tenido en cuenta dos factores principales: La propia web y la visión directa de los usuarios. 
 
