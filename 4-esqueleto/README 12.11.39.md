@@ -9,37 +9,29 @@ Por lo tanto, a continuación se detalla
 1. ACCEDER
 
 
---> Wireframes "ACCEDER" (jon)
+![acceder](/4-esqueleto/acceso.png)
 
 
 
 
-2. REGISTRARSE
+2. REGISTRARSO & LOG IN 
 
 
 
+![registro](/4-esqueleto/registrologin.png)
 
 
 
---> Wireframe "REGISTRARSE" (jon)
+3.1. Ajunta tus propuestas & Contacta con nosostros
 
 
+![propuestacontacta](/4-esqueleto/contactapropuesta.png)
 
-3. LOG IN 
+![SECCIONES](/4-esqueleto/secciones.png)
 
+![REGISTRADOS](/4-esqueleto/portadaregistrados.png)
 
-
-
-
---> Wireframe "LOG IN" (jon)
-
-3.1. Ajunta tus propuestas
-
-
---> Wireframe "Adjunta tus propuestas" (jon)
-
-
-
+![NOREGISTRADOS](/4-esqueleto/portada.png)
 
 ## DISEÑO DE LA NAVEGACIÓN (ANDER CURIEL)
 
