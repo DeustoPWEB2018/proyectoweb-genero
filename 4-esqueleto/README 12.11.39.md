@@ -43,7 +43,20 @@ Por lo tanto, a continuación se detalla
 
 ## DISEÑO DE LA NAVEGACIÓN (ANDER CURIEL)
 
-## Variedades de Etiquetas
+### Organización de ruta
+
+En este apartado, nuestra página contará con un elemento de localización, que permitirá a cada usuario saber dónde se encuentra en cada momento durante su navegación, pudiendo volver hacia atrás a través de esta ruta con hipervínculos.
+
+Además, la página también contará con un Mapa del Sitio. Con él, permitiremos al usuario en cuestión saltar a la página que desee.
+
+### Navegación 
+
+Así mismo, también hemos decidido que nuestra página sea de navegación a través de barras y pestañas. Concretamente, hemos decidido que lleve un menú dinámico dentro de ella. 
+Dentro de cada temática existirán subtemas que podrán ser seleccionados a través de pop up menus. Esto hará que nuestra web posea un aspecto moderno y sencillo de llevar.
+
+## DISEÑO DE LA INFORMACIÓN 
+
+### Variedades de Etiquetas
 En la Web, nos encontramos regularmente con etiquetas en un formato textual. Trataremos de usar las etiquetas de texto ya que siguen siendo las más comunes, a pesar de que los contenidos de carácter visual hayan ganado mucho peso en la web:
 
 #### Enlaces contextuales
@@ -88,17 +101,6 @@ La prueba consistía en cuestionar a cuatro individuos acerca de cuáles podían
 * ¿Dónde está el límite entre amabilidad y acoso? (consejos, opinión, reportajes,)
 
 Tras deliberarlo en grupo, hemos decidido que nuestra página se componga de páginas por las que el usuario pueda navegar de manera libre, es decir, por paginación.
-
-### Organización de ruta
-
-En este apartado, nuestra página contará con un elemento de localización, que permitirá a cada usuario saber dónde se encuentra en cada momento durante su navegación, pudiendo volver hacia atrás a través de esta ruta con hipervínculos.
-
-Además, la página también contará con un Mapa del Sitio. Con él, permitiremos al usuario en cuestión saltar a la página que desee.
-
-### Navegación 
-
-Así mismo, también hemos decidido que nuestra página sea de navegación a través de barras y pestañas. Concretamente, hemos decidido que lleve un menú dinámico dentro de ella. 
-Dentro de cada temática existirán subtemas que podrán ser seleccionados a través de pop up menus. Esto hará que nuestra web posea un aspecto moderno y sencillo de llevar.
 
 ## WIREFRAMES (JON CANTERO)
 
