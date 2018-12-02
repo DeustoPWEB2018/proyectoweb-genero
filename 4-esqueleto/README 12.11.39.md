@@ -61,15 +61,15 @@ Una vez introducida correctamente la contraseña, sin problemas el usuario podr�
 #### 3.1. Ajunta tus propuestas
 En el apartado "Adjunta tus propuestas" el usuario registrado tiene la opción de adjuntar los archivos de creación propia relacionados con la igualdad de género. 
 
-![adjunta](/proyectoweb-genero/4-esqueleto/adjunta.png)
+![adjunta](/4-esqueleto/adjunta.png)
 
 Una vez adjuntado el archivo deseado podrás ver todos los archivos que has subido en la siguiente imagen. 
 
-![tuspropuestas](/proyectoweb-genero/4-esqueleto/tuspropuestas.png)
+![tuspropuestas](/4-esqueleto/tuspropuestas.png)
 
 El tic verde indica que el administrador del sitio web ha revisado los archivos y que le ha dado el visto bueno para poder publicarlo. La interrogación significa que el archivo todavía está en la fase de revisión. Y finalmente, la cruz roja significa que el archivo no se va a publicar. 
 
-![tuspublicaciones](/proyectoweb-genero/4-esqueleto/tuspublicaciones.png)
+![tuspublicaciones](/4-esqueleto/tuspublicaciones.png)
 
 En el apartado “Tus publicaciones” se encuentran aquellos archivos que han sido revisados y aceptados por el administrador. En la parte derecha de cada archivo aparece la opción “Acceder” que permite acceder a la publicación en cuestión ya publicada a disposición de cualquier usuario. 
 
