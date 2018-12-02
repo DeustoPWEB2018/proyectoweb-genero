@@ -19,23 +19,23 @@ En este apartado, los usuarios podrían experimentar una mayor sensación de seg
 
 ### Fuentes para crear sistemas de etiquetado
 
-A la hora de crear nuestro propio sistema de etiquetado, hemos tenido en cuenta dos factores principales: Nuestra propia web y la visión directa de los usuarios. 
+A la hora de crear un sistema de etiquetado, se han tenido en cuenta dos factores principales: La propia web y la visión directa de los usuarios. 
 
 #### Tu propia web: 
-Teniendo en cuenta las categorías de nuestro sitio web: (noticias, artículos, reportajes, entrevistas historias reales, consejos, quiénes somos) creemos que una lista apropiada de etiquetas podría ser la siguiente: 
+Teniendo en cuenta las categorías del sitio web: (noticias, artículos, reportajes, entrevistas historias reales, consejos, quiénes somos) lista apropiada de etiquetas podría ser la siguiente: 
 
 * Para cuando los contenidos se refieran a __sucesos__ en particular, sería adecuado definir a través de un sustantivo o un verbo (una acción) el suceso principal a reflejar en el contenido que quiera ser ordenado a través del etiquetado. Una lista de etiquetas a elegir podrían ser: 
 	* violencia, agresión, sentencia, denuncia, manifestación.
 
-* En determinadas situaciones, ofrecer información del lugar en el que se han producido determinados acontecimientos también sería una decisión acertada, por lo que el etiquetado en este aspecto sería sencillo, para facilitar la búsqueda a través de las localidades en las que se han producido los hechos:
-* 	San Sebastián, Gipuzkoa, País Vasco, España. 
+* En determinadas situaciones, ofrecer información del __lugar geográfico__ en el que se han producido determinados acontecimientos también sería una decisión acertada, por lo que el etiquetado en este aspecto sería sencillo, para facilitar la búsqueda a través de las localidades en las que se han producido los hechos:
+	* San Sebastián, Gipuzkoa, País Vasco, España. 
 
-* Por último, también sería adecuado hacer referencia al tipo de contenidos publicado, para de esa manera, facilitar la búsqueda al usuario que opte por buscar un determinado contenido: 
-* 	consejos, reportajes, entrevistas, opinión, noticias, historias reales.  
+* Por último, también sería adecuado hacer referencia al __tipo de contenido__ publicado, para de esa manera, facilitar la búsqueda al usuario que opte por buscar un determinado contenido: 
+	* consejos, reportajes, entrevistas, opinión, noticias, historias reales.  
 
 #### Listado libre
 
-Hemos realizado un ejercicio de listado libre para tratar de expandir las posibilidades de etiquetado que ofrecen los contenidos que se publicarán en nuestro sitio web. Para ello, hemos escogido al azar cuatro de los contenidos que formaron la lista de 20 contenidos, que utilizamos para la prueba de card sorting. Los cuatro contenidos que hemos escogido son los siguientes: 
+Se ha realizado un ejercicio de listado libre para tratar de expandir las posibilidades de etiquetado que ofrecen los contenidos que se publicarán en el sitio web. Para ello, se han escogido al azar cuatro de los contenidos que formaron la lista de 20 contenidos que se utilizaron para la prueba de card sorting. Los cuatro contenidos escogidos son los siguientes: 
 
 * Conociendo a Clara Campoamor
 * La historia de Jennifer
@@ -45,9 +45,9 @@ Hemos realizado un ejercicio de listado libre para tratar de expandir las posibi
 La prueba consistía en cuestionar a cuatro individuos acerca de cuáles podían ser las etiquetas que estuvieran relacionadas con cada uno de estos contenidos:
 
 * Conociendo a Clara Campoamor (Historia, personalidades, referentes, conociendo a)
-* La historia de Jennifer (historias, sucesos reales)
-* Izaskun Landaia: “Debemos dar un ejemplo en materia de igualdad” (entrevistas, igualdad, instituciones)
-* ¿Dónde está el límite entre amabilidad y acoso? (consejos, opinión, anotaciones)
+* La historia de Jennifer (historias, sucesos reales, personas)
+* Izaskun Landaia: “Debemos dar un ejemplo en materia de igualdad” (entrevistas, igualdad, instituciones, defensa, educación, )
+* ¿Dónde está el límite entre amabilidad y acoso? (consejos, opinión, reportajes,)
 
 
 ## WIREFRAMES (JON CANTERO)
