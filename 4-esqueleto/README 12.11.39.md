@@ -28,11 +28,13 @@ Por lo tanto, a continuación se detalla
 3.1. Ajunta tus propuestas & Contacta con nosostros
 
 
---> ![propuestacontacta](/4-esqueleto/contactapropuesta.png)
+![propuestacontacta](/4-esqueleto/contactapropuesta.png)
 
---> ![SECCIONES](/4-esqueleto/secciones.png)
---> ![REGISTRADOS](/4-esqueleto/portadaregistrado.png)
---> ![NOREGISTRADOS](/4-esqueleto/portada.png)
+![SECCIONES](/4-esqueleto/secciones.png)
+
+![REGISTRADOS](/4-esqueleto/portadaregistrados.png)
+
+![NOREGISTRADOS](/4-esqueleto/portada.png)
 
 ## DISEÑO DE LA NAVEGACIÓN (ANDER CURIEL)
 
