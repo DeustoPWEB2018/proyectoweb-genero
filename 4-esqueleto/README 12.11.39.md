@@ -6,37 +6,45 @@ A continuación se encuentra el diseño de los elementos de la interfaz con el o
 
 Por lo tanto, a continuación se detalla 
 
-1. ACCEDER
+### 1. ACCEDER
 
-
---> Wireframes "ACCEDER" (jon)
-
-
-
-
-2. REGISTRARSE
+--> *Wireframe* de "ACCEDER" (jon)
 
 
 
 
+### 2. REGISTRARSE
+Cuando un usuario tenga intención de registrarse en **HOYPORTIMAÑANAPORMI.COM** se encontrará lo siguiente:
 
+![registrate](/proyectoweb-genero/4-esqueleto/registrate.png)
 
---> Wireframe "REGISTRARSE" (jon)
-
-
-
-3. LOG IN 
-
-
+--> *Wireframe* de "REGISTRARSE" (jon)
 
 
 
---> Wireframe "LOG IN" (jon)
+### 3. LOG IN: INICIAR SESIÓN
 
-3.1. Ajunta tus propuestas
+![login](/proyectoweb-genero/4-esqueleto/login.png)
+
+Cabe la posibilidad que el usuario no se acuerde de su contraseña de acceso, en consecuencia tiene la opción "He olvidado mi contraseña", con la que mediante dos pasos sencillos podrá obtener una nueva. 
+
+![olvido](/proyectoweb-genero/4-esqueleto/olvido.png)
+
+Inmediatamente una nueva contraseña se le enviará al email de recuperación del usuario. En el correo en cuestión, le aparecerá la nueva contraseña con 4 dígitos y a continuación un acceso directo para iniciar sesión con esa nueva contraseña: poder iniciar sesión con la nueva contraseña haz clic *aquí*.
+
+![nuevacontra](/proyectoweb-genero/4-esqueleto/nuevacontra.png)
+
+Una vez que el usuario inicie sesión y por lo tanto, acceda a su cuenta personal encontrará a su disposición el sitio web con el contenido y tambien un apartado llamado "Adjunta tus propuestas". 
+
+--> *Wireframe* de "LOG IN" (jon)
 
 
---> Wireframe "Adjunta tus propuestas" (jon)
+
+
+#### 3.1. Ajunta tus propuestas
+
+
+--> *Wireframe* de "Adjunta tus propuestas" (jon)
 
 
 
@@ -45,6 +53,6 @@ Por lo tanto, a continuación se detalla
 
 ## DISEÑO DE LA INFORMACIÓN (IÑIGO HERNÁNDEZ)
 
-## WIREFRAMES (JON CANTERO)
+
 
 ## REFERENCIAS
