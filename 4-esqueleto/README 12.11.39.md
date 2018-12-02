@@ -7,6 +7,8 @@ A continuación se encuentra el diseño de los elementos de la interfaz con el o
 Por lo tanto, a continuación se detalla 
 
 ### 1. ACCEDER
+En la página principal el usuario no registrado encontrará todo el contenido a su disposición, para leer, escuchar y ver. En el siguiente *Wireframe* se aprecia el diseño de la interfaz. Cuando se hace referencia a "Acceder", en realizar se hace referencia cuando cualquier usuario se mete en la página web HOYPORTIMAÑANAPORMI.COM, ¿qué es lo que se va a encontrar? A continuación:
+
 
 --> *Wireframe* de "ACCEDER" (jon)
 
@@ -42,6 +44,16 @@ Una vez que el usuario inicie sesión y por lo tanto, acceda a su cuenta persona
 
 
 #### 3.1. Ajunta tus propuestas
+
+![adjunta](/proyectoweb-genero/4-esqueleto/adjunta.png)
+
+![tuspropuestas](/proyectoweb-genero/4-esqueleto/tuspropuestas.png)
+
+El tic verde indica que el administrador del sitio web ha revisado los archivos y que le ha dado el visto bueno para poder publicarlo. La interrogación significa que el archivo todavía está en la fase de revisión. Y finalmente, la cruz roja significa que el archivo no se va a publicar. 
+
+![tuspublicaciones](/proyectoweb-genero/4-esqueleto/tuspublicaciones.png)
+
+En el apartado “Tus publicaciones” se encuentran aquellos archivos que han sido revisados y aceptados por el administrador. En la parte derecha de cada archivo aparece la opción “Acceder” que permite acceder a la publicación en cuestión ya publicada a disposición de cualquier usuario. 
 
 
 --> *Wireframe* de "Adjunta tus propuestas" (jon)
