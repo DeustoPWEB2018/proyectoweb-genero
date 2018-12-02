@@ -31,16 +31,12 @@ Cuando un usuario tenga intención de registrarse en **HOYPORTIMAÑANAPORMI.COM*
 
 #### *Wireframe* de "REGISTRARSE" 
 
-![registro](/4-esqueleto/registrologin.png)
+![registrowire](/4-esqueleto/registrowire.png)
 
 ### 3. LOG IN: INICIAR SESIÓN
 A continuación, se observa las opciones y funciones que hay dentro de "Log in", que significa "Inicar sesión".
 
 ![login](/4-esqueleto/login.png)
-
-Una vez introducida correctamente la contraseña, sin problemas el usuario podrá acceder a la página web donde encontrará lo siguiente:
-
-![REGISTRADOS](/4-esqueleto/portadaregistrados.png)
 
 Cabe la posibilidad que el usuario no se acuerde de su contraseña de acceso, en consecuencia tiene la opción "He olvidado mi contraseña", con la que mediante dos pasos sencillos podrá obtener una nueva. 
 
@@ -55,9 +51,11 @@ Una vez que el usuario inicie sesión y por lo tanto, acceda a su cuenta persona
 
 #### *Wireframe* de "LOG IN" 
 
-![nuevacontra](/4-esqueleto/nuevacontra.png)
+![loginowire](/4-esqueleto/loginwire.png)
 
+Una vez introducida correctamente la contraseña, sin problemas el usuario podrá acceder a la página web donde encontrará lo siguiente:
 
+![REGISTRADOS](/4-esqueleto/portadaregistrados.png)
 
 
 #### 3.1. Ajunta tus propuestas
