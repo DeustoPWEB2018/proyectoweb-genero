@@ -6,24 +6,47 @@ A continuación se encuentra el diseño de los elementos de la interfaz con el o
 
 Por lo tanto, a continuación se detalla 
 
-1. ACCEDER
+### 1. ACCEDER
 
+--> *Wireframe* de "ACCEDER" (jon)
 
 ![acceder](/4-esqueleto/acceso.png)
 
 
 
+### 2. REGISTRARSE
+Cuando un usuario tenga intención de registrarse en **HOYPORTIMAÑANAPORMI.COM** se encontrará lo siguiente:
+
+
+![registrate](/4-esqueleto/registrate.png)
 
 2. REGISTRARSO & LOG IN 
 
 
+--> *Wireframe* de "REGISTRARSE" (jon)
+
 
 ![registro](/4-esqueleto/registrologin.png)
 
+### 3. LOG IN: INICIAR SESIÓN
 
+![login](/4-esqueleto/login.png)
+
+Cabe la posibilidad que el usuario no se acuerde de su contraseña de acceso, en consecuencia tiene la opción "He olvidado mi contraseña", con la que mediante dos pasos sencillos podrá obtener una nueva. 
 
 3.1. Ajunta tus propuestas & Contacta con nosostros
+>>
 
+![olvido](/4-esqueleto/olvido.png)
+
+
+Inmediatamente una nueva contraseña se le enviará al email de recuperación del usuario. En el correo en cuestión, le aparecerá la nueva contraseña con 4 dígitos y a continuación un acceso directo para iniciar sesión con esa nueva contraseña: poder iniciar sesión con la nueva contraseña haz clic *aquí*.
+
+![nuevacontra](/4-esqueleto/nuevacontra.png)
+
+Una vez que el usuario inicie sesión y por lo tanto, acceda a su cuenta personal encontrará a su disposición el sitio web con el contenido y tambien un apartado llamado "Adjunta tus propuestas". 
+
+--> *Wireframe* de "LOG IN" (jon)
 
 ![propuestacontacta](/4-esqueleto/contactapropuesta.png)
 
@@ -33,18 +56,28 @@ Por lo tanto, a continuación se detalla
 
 ![NOREGISTRADOS](/4-esqueleto/portada.png)
 
+
 ## DISEÑO DE LA NAVEGACIÓN (ANDER CURIEL)
 
 ### Organización de ruta
+
+
+
+#### 3.1. Ajunta tus propuestas
 
 En este apartado, nuestra página contará con un elemento de localización, que permitirá a cada usuario saber dónde se encuentra en cada momento durante su navegación, pudiendo volver hacia atrás a través de esta ruta con hipervínculos.
 
 Además, la página también contará con un Mapa del Sitio. Con él, permitiremos al usuario en cuestión saltar a la página que desee.
 
+
 ### Navegación 
+
+
+--> *Wireframe* de "Adjunta tus propuestas" (jon)
 
 Así mismo, también hemos decidido que nuestra página sea de navegación a través de barras y pestañas. Concretamente, hemos decidido que lleve un menú dinámico dentro de ella. 
 Dentro de cada temática existirán subtemas que podrán ser seleccionados a través de pop up menus. Esto hará que nuestra web posea un aspecto moderno y sencillo de llevar.
+
 
 ## DISEÑO DE LA INFORMACIÓN 
 
@@ -93,7 +126,5 @@ La prueba consistía en cuestionar a cuatro individuos acerca de cuáles podían
 * ¿Dónde está el límite entre amabilidad y acoso? (consejos, opinión, reportajes,)
 
 Tras deliberarlo en grupo, hemos decidido que nuestra página se componga de páginas por las que el usuario pueda navegar de manera libre, es decir, por paginación.
-
-## WIREFRAMES (JON CANTERO)
 
 ## REFERENCIAS
