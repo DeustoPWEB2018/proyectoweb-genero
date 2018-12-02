@@ -1,44 +1,46 @@
 # PLANO DE ESQUELETO
 
 
-## DISEÑO DE LA INTERFAZ (MARINA PEREZ)
-A continuación se encuentra el diseño de los elementos de la interfaz con el objetivo de facilitar la interacción al usuario con la funcionalidad del sitio web **HOYPORTIMAÑANAPORMI.COM**. Existen diversas maneras para disear el diseño de la interfaz, Wireframes es un ejemplo que permite separar cada pañgina del sitio web, se observan la cantidad de las funciones disponibles, las prioridades relativas de la información y las funciones, las reglas para mostrar ciertos tipos de información, el efecto de los distintos escenarios, etc. 
+## DISEÑO DE LA INTERFAZ 
+A continuación se encuentra el diseño de los elementos de la interfaz con el objetivo de facilitar la interacción al usuario con la funcionalidad del sitio web **HOYPORTIMAÑANAPORMI.COM**. Existen diversas maneras para disear el diseño de la interfaz, *Wireframes* es un ejemplo que permite separar cada pañgina del sitio web, se observan la cantidad de las funciones disponibles, las prioridades relativas de la información y las funciones, las reglas para mostrar ciertos tipos de información, el efecto de los distintos escenarios, etc. 
 
-Por lo tanto, a continuación se detalla 
+A continuación se detalla el diseño de la interfaz del sitio web. 
 
 ### 1. ACCEDER
+En la página principal el usuario no registrado encontrará todo el contenido a su disposición, para leer, escuchar y ver. En el siguiente *Wireframe* se aprecia el diseño de la interfaz. Cuando se hace referencia a "Acceder", en realidad se hace referencia cuando un usuario se mete en la página web **HOYPORTIMAÑANAPORMI.COM**, ¿qué es lo que se va a encontrar? A continuación:
 
---> *Wireframe* de "ACCEDER" (jon)
+#### *Wireframe* de "ACCEDER"
+Al comienzo el usuario encontrará tres opciones posible: acceder, log in, registrarse y contacta con nosotros. 
 
 ![acceder](/4-esqueleto/acceso.png)
 
+Los usuarios no registrados y que directamente accedan al contenido de la página web se encontrarán la siguiente portada con las siguientes secciones.
 
+![NOREGISTRADOS](/4-esqueleto/portada.png)
+
+![SECCIONES](/4-esqueleto/secciones.png)
+
+Más adelante se habla sobre el usuario registrado y el que quiere iniciar sesión. Pero queda la ultima opción "contacta con nosotros" que se aprecia de la siguiente manera.  
+
+![propuestacontacta](/4-esqueleto/contactapropuesta.png)
 
 ### 2. REGISTRARSE
 Cuando un usuario tenga intención de registrarse en **HOYPORTIMAÑANAPORMI.COM** se encontrará lo siguiente:
 
-
 ![registrate](/4-esqueleto/registrate.png)
 
-2. REGISTRARSO & LOG IN 
+#### *Wireframe* de "REGISTRARSE" 
 
-
---> *Wireframe* de "REGISTRARSE" (jon)
-
-
-![registro](/4-esqueleto/registrologin.png)
+![registrowire](/4-esqueleto/registrowire.png)
 
 ### 3. LOG IN: INICIAR SESIÓN
+A continuación, se observa las opciones y funciones que hay dentro de "Log in", que significa "Inicar sesión".
 
 ![login](/4-esqueleto/login.png)
 
 Cabe la posibilidad que el usuario no se acuerde de su contraseña de acceso, en consecuencia tiene la opción "He olvidado mi contraseña", con la que mediante dos pasos sencillos podrá obtener una nueva. 
 
-3.1. Ajunta tus propuestas & Contacta con nosostros
->>
-
 ![olvido](/4-esqueleto/olvido.png)
-
 
 Inmediatamente una nueva contraseña se le enviará al email de recuperación del usuario. En el correo en cuestión, le aparecerá la nueva contraseña con 4 dígitos y a continuación un acceso directo para iniciar sesión con esa nueva contraseña: poder iniciar sesión con la nueva contraseña haz clic *aquí*.
 
@@ -46,35 +48,44 @@ Inmediatamente una nueva contraseña se le enviará al email de recuperación de
 
 Una vez que el usuario inicie sesión y por lo tanto, acceda a su cuenta personal encontrará a su disposición el sitio web con el contenido y tambien un apartado llamado "Adjunta tus propuestas". 
 
---> *Wireframe* de "LOG IN" (jon)
 
-![propuestacontacta](/4-esqueleto/contactapropuesta.png)
+#### *Wireframe* de "LOG IN" 
 
-![SECCIONES](/4-esqueleto/secciones.png)
+![loginowire](/4-esqueleto/loginwire.png)
+
+Una vez introducida correctamente la contraseña, sin problemas el usuario podrá acceder a la página web donde encontrará lo siguiente:
 
 ![REGISTRADOS](/4-esqueleto/portadaregistrados.png)
 
-![NOREGISTRADOS](/4-esqueleto/portada.png)
-
-
-## DISEÑO DE LA NAVEGACIÓN (ANDER CURIEL)
-
-### Organización de ruta
-
-
 
 #### 3.1. Ajunta tus propuestas
+En el apartado "Adjunta tus propuestas" el usuario registrado tiene la opción de adjuntar los archivos de creación propia relacionados con la igualdad de género. 
+
+![adjunta](/4-esqueleto/adjunta.png)
+
+Una vez adjuntado el archivo deseado podrás ver todos los archivos que has subido en la siguiente imagen. 
+
+![tuspropuestas](/4-esqueleto/tuspropuestas.png)
+
+El tic verde indica que el administrador del sitio web ha revisado los archivos y que le ha dado el visto bueno para poder publicarlo. La interrogación significa que el archivo todavía está en la fase de revisión. Y finalmente, la cruz roja significa que el archivo no se va a publicar. 
+
+![tuspublicaciones](/4-esqueleto/tuspublicaciones.png)
+
+En el apartado “Tus publicaciones” se encuentran aquellos archivos que han sido revisados y aceptados por el administrador. En la parte derecha de cada archivo aparece la opción “Acceder” que permite acceder a la publicación en cuestión ya publicada a disposición de cualquier usuario. 
 
 En este apartado, nuestra página contará con un elemento de localización, que permitirá a cada usuario saber dónde se encuentra en cada momento durante su navegación, pudiendo volver hacia atrás a través de esta ruta con hipervínculos.
 
 Además, la página también contará con un Mapa del Sitio. Con él, permitiremos al usuario en cuestión saltar a la página que desee.
 
 
+## DISEÑO DE LA NAVEGACIÓN (ANDER CURIEL)
+
+### Organización de ruta
+En este apartado, nuestra página contará con un elemento de localización, que permitirá a cada usuario saber dónde se encuentra en cada momento durante su navegación, pudiendo volver hacia atrás a través de esta ruta con hipervínculos.
+
+Además, la página también contará con un Mapa del Sitio. Con él, permitiremos al usuario en cuestión saltar a la página que desee.
+
 ### Navegación 
-
-
---> *Wireframe* de "Adjunta tus propuestas" (jon)
-
 Así mismo, también hemos decidido que nuestra página sea de navegación a través de barras y pestañas. Concretamente, hemos decidido que lleve un menú dinámico dentro de ella. 
 Dentro de cada temática existirán subtemas que podrán ser seleccionados a través de pop up menus. Esto hará que nuestra web posea un aspecto moderno y sencillo de llevar.
 
