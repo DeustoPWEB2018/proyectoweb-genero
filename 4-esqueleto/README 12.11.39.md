@@ -9,7 +9,7 @@ Por lo tanto, a continuación se detalla
 1. ACCEDER
 
 
---> ![acceder](/4-esqueleto/acceso.png)
+![acceder](/4-esqueleto/acceso.png)
 
 
 
@@ -18,10 +18,7 @@ Por lo tanto, a continuación se detalla
 
 
 
-
-
-
---> ![registro](/4-esqueleto/registrlogin.png)
+![registro](/4-esqueleto/registrologin.png)
 
 
 
