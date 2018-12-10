@@ -1,6 +1,6 @@
 # PLANO DE SUPERFICIE
 
-## Introducción (Ander)
+## Introducción (Iñigo)
 
 ## Guia de Logotipo (Ander)
 
@@ -8,7 +8,7 @@
 
 ## Guia de Fuentes (Jon)
 
-## Guia de Fotografías (Iñigo)
+## Guia de Fotografías (Ander)
 
 ## Rejillas (Iñigo)
 
