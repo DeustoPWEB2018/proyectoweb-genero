@@ -1,3 +1,11 @@
-# Plano de superficie
+# PLANO DE SUPERFICIE
 
-## Referencias
+## GUIAS DE ESTILO (Ander)
+
+### COLOR (Marina)
+
+### TIPOGRAFÍA (Jon) 
+
+### COLUMNAS (Iñigo)
+
+## REFERENCIAS
