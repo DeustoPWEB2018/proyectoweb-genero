@@ -1,11 +1,15 @@
 # PLANO DE SUPERFICIE
 
-## GUIAS DE ESTILO (Ander)
+## Introducción (Ander)
 
-### COLOR (Marina)
+## Guia de Logotipo (Ander)
 
-### TIPOGRAFÍA (Jon) 
+## Guia de Color (Marina)
 
-### COLUMNAS (Iñigo)
+## Guia de Fuentes (Jon)
+
+## Guia de Fotografías (Iñigo)
+
+## Rejillas (Iñigo)
 
 ## REFERENCIAS
