@@ -5,6 +5,7 @@ A continuación, se recoge la guía de estilo del sitio web HOYPORTIMAÑANAPORMI
 Mediante las reglas que se recogen en la guía de estilo se pretende normalizar la estructura de los contenidos y el diseño del sitio web, homogeneizando estilos y estructuras para facilitar el desarrollo de nuevas páginas y las actualizaciones posteriores.
 
 
+
 ## 1. GUÍA DE LOGOTIPO
 El elemento principal del logotipo son los símbolos que definen a la mujer y al hombre. Mediante estos dos símbolos se pretende transmitir la igualdad para ambos géneros. En cuanto al nombre del sitio web (Hoy por ti, mañana por mí), tiene como objetivo la retroalimentación de información entre personas: noticias, reportajes, entrevistas, historias reales, consejos relacionados con la igualdad o desigualdad de género.
  
@@ -28,6 +29,8 @@ Este formato del logo está formado únicamente por los dos símbolos representa
 La cabecerade HOYPORTIMAÑANAPORMI.COM se compone de dos elementos: logotipo a la izquierda y botones de “log in” y “regístrate” junto con las redes sociales del sitio web a la derecha.
 
 ![cabecera](/5-superficie/cabecera.png)
+
+
 
 
 ## 2. GUÍA DE COLOR
