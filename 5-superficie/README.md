@@ -75,3 +75,10 @@ Esta es la relación de los principales colores de la web, están descritos con 
 ## Nota de agradecimiento (Ander) 
 
 ## REFERENCIAS
+- Chris Armstrong, The Infinite Grid.
+- Ed Wasserman, Una introducción a las retículas en el diseño web.
+- Grace Fussell, Cómo crear sus propias normas de marca.
+- Ian Yates, La anatomía de la tipografía web.
+- Kezz Bracey, 6 Beginner "Safety First" Color Guidelines for the Web.
+- Robert Bringhurst, Richard Rutter, The Elements of Typographic Style Applied to the Web.
+- Thomas Cannon, Una introducción a la teoría del color para diseñadores web.
