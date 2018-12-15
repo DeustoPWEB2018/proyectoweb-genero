@@ -21,7 +21,6 @@ Este formato del logo está formado únicamente por los dos símbolos representa
 ![miniatura](/5-superficie/miniatura.png)
 
 ![insta](/5-superficie/insta.png)
-
 *Ejemplo del perfil de Instagram*
 
 ### El logo en la cabecera del sitio web 
@@ -29,8 +28,10 @@ La cabecerade HOYPORTIMAÑANAPORMI.COM se compone de dos elementos: logotipo a l
 
 ![cabecera](/5-superficie/cabecera.png)
 
+
 ## 2. GUÍA DE COLOR
-**Los colores principales de la web:**
+### Paleta de colores:
+A continuación se encuentra la relación de los principales colores de la web y están descritos con su color hexagesimal para poder identificarlos correctamente.
 
 **Rosa y azul**
 
@@ -57,13 +58,10 @@ El color gris se emplea de una manera sutil en el sitio web, ya que únicamente 
 El color blanco forma parte del fondo del sitio web, por lo que el contenido irá en color negro sobre un fondo claro, como es el blanco. Pero también existen excepciones, ya que en ocasiones se utiliza el blanco para títulos o secciones.
 
 ![blanco](/5-superficie/blanco.png)
-
-Esta es la relación de los principales colores de la web, están descritos con su color hexagesimal para poder identificarlos rápido y adecuadamente.
  
 ### Uso de los colores
 
 ![webcolor](/5-superficie/webcolor.png)
-
 
 
 ## Guia de Fuentes (Jon)
