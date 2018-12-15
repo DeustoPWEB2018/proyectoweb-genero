@@ -37,27 +37,26 @@ La cabecerade HOYPORTIMAÑANAPORMI.COM se compone de dos elementos: logotipo a l
 ### Paleta de colores:
 A continuación se encuentra la relación de los principales colores de la web y están descritos con su color hexagesimal para poder identificarlos correctamente.
 
-**Rosa y azul**
-
+- **Rosa y azul**
 Como colores de contraste destacamos el rosa y el azul dado por la imagen corporativa. Se emplearán de la siguiente manera: para destacar la sección en la que se encuentra el usuario de color rosa, para destacar los botones “log in” y “regístrate de color azul para llamar la atención del usuario y los títulos del contenido estarán formados por un fondo rosa. Las opciones a destacar se destacarán tanto con el rosa como con el azul.  
 
 ![rosa](/5-superficie/rosa.png)
 
 ![azul](/5-superficie/azul.png)
 
-**Negro**
+- **Negro**
 
 Todos los textos del contenido de la web serán de color negro, exceptuando los casos excepcionales que se recogen en este manual. Como pueden ser, tipos de enlace, títulos, etc.
 
 ![negro](/5-superficie/negro.png)
 
-**Gris**
+- **Gris**
 
 El color gris se emplea de una manera sutil en el sitio web, ya que únicamente se aprecia en el fondo de los botones de cada sección.
 
 ![gris](/5-superficie/gris.png)
 
-**Blanco**
+- **Blanco**
 
 El color blanco forma parte del fondo del sitio web, por lo que el contenido irá en color negro sobre un fondo claro, como es el blanco. Pero también existen excepciones, ya que en ocasiones se utiliza el blanco para títulos o secciones.
 
