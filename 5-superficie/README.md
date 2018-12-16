@@ -154,3 +154,4 @@ En esta sección, la página tendrá una estructura definida de cuatro columnas 
 - Robert Bringhurst, Richard Rutter, The Elements of Typographic Style Applied to the Web.
 - Thomas Cannon, Una introducción a la teoría del color para diseñadores web.
 
+
