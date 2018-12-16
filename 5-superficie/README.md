@@ -1,6 +1,6 @@
 # PLANO DE SUPERFICIE
 
-En las siguientes líneas, se procederá a la explicación de la guía de estilo del sitio web **HOYPORTIMAÑANAPORMI.COM**, a través de la cuál se definirá la guía de uso de colores, fuentes, fotografías y del logotipo del sitio web. De la misma manera, se procederá a la explicación del diseño  de las rejillas en cada una de las páginas del sitio web, así como en los contenidos específicos que se podrán encontra en cada una de las páginas del mismo.   
+En las siguientes líneas, se procederá a la explicación de la guía de estilo del sitio web **HOYPORTIMAÑANAPORMI.COM**, a través de la cuál se definirá la guía de uso de colores, fuentes, fotografías y del logotipo del sitio web. De la misma manera, se procederá a la explicación del diseño  de las rejillas en cada una de las páginas del sitio web, así como en los contenidos específicos que se podrán encontrar en cada una de las páginas del mismo.   
  
 Mediante las reglas que se recogen en la siguiente guía de estilo se pretende normalizar la estructura de los contenidos y el diseño del sitio web, homogeneizando estilos y estructuras para facilitar el desarrollo de nuevas páginas y las actualizaciones posteriores.
 
@@ -25,7 +25,7 @@ Este formato del logo está formado únicamente por los dos símbolos representa
 *Ejemplo del perfil de Instagram.*
 
 ### El logo en la cabecera del sitio web 
-La cabecerade HOYPORTIMAÑANAPORMI.COM se compone de dos elementos: logotipo a la izquierda y botones de “log in” y “regístrate” junto con las redes sociales del sitio web a la derecha.
+La cabecera de HOYPORTIMAÑANAPORMI.COM se compone de dos elementos: logotipo a la izquierda y botones de “log in” y “regístrate” junto con las redes sociales del sitio web a la derecha.
 
 ![cabecera](/5-superficie/cabecera.png)
 
@@ -65,14 +65,39 @@ Esta es la relación de los principales colores de la web, están descritos con 
 ![webcolor](/5-superficie/webcolor.png)
 
 
-## GUÍA DE FUENTES (Jon)
+## 3. GUÍA DE FUENTES
+A continuación, se describe la tipografía empleada para cada apartado del sitio web, siempre pensando que sea una tipografía legible para el usuario.
 
-## GUÍA DE FOTOGRAFÍAS (Ander)
+### Texto / Títulos y botones “log in” y “registrate”
+Tanto para el texto del sitio web como para los botones “log in” y “registrate” se ha empleado Helvética una tipografía legible en web la cual se emplea en la mayoría del contenido: el contenido de las noticias, el contenido de las historias reales, reportajes, etc. Hay excepciones en la tipografía de los títulos y secciones, ya que variarán con la tipografía Montserrat.
 
-## REJILLAS 
+![helvetica](/5-superficie/helvetica.png)
+
+### Tipografía de las secciones
+Montserrat es la tipografía seleccionada para las secciones como noticias, reportajes, entrevistas, consejos, historias reales, quiénes somos y contacto. 
+
+![montserrat](/5-superficie/montserrat.png)
+
+###Tipografía del logo
+El texto “Hoy por ti” contiene la tipografía **League Spartan** y el texto “mañana por mí” la tipografía **Montserrat**. Ambos textos están en color negro.
+
+*“HOY POR TI”*
+![league](/5-superficie/league.png)
+
+*“MAÑANA POR MÍ”*       
+![montserrat](/5-superficie/montserrat.png)
+  
+### Uso de la tipografía 
+A continuación se aprecia, de manera visual, qué tipo de tipografía se emplea en cada caso: logo, secciones, titulares, texto, etc.
+
+![usotipo](/5-superficie/usotipo.png)
+
+## 4. GUÍA DE FOTOGRAFÍAS (Ander)
+
+## 5. REJILLAS 
 
 ### Portada
-En la cabecera de la página inicial, podrá encontrarse el logotipo y el nombre del sitio web, que estará situado en la parte izquierda, con una extensión de ocho unidades. Las cuatro unidades restantes corresponderán a etiquetas a través de las cuáles el usuario podrá acceder a iniciar sesión o a los procedimientos de registro necesarios. En el siguiente escalón, encontrará enlaces a través de imágenes, que le permitirán acceder a las redes sociales vinculadas al sitio web. Por último, en la parte inferior de la cabecera, encontará las diferentes etiquetas que representarán a cada una de las categorías del sitio web, a través de las cuáles podrá accederse a cada una de ellas. En el cuerpo de la página, podrán encontrarse los diferentes contenidos que se encontrarán en el sitio web, a través de las cuáles se podrá acceder a través de un enlace contextual. La extensión de las columnas será combinada, en base a la importancia del contenido en cuestión, algo que será cambiante en base a lo publicado en determinados momentos. Los contenidos más característicos estarán representados por columnas de seis unidades, mientras que las menos relevantes tendrán unidades de dos o cuatro unidades, en base a la importancia que se le decida otorgar.       
+En la cabecera de la página inicial, podrá encontrarse el logotipo y el nombre del sitio web, que estará situado en la parte izquierda, con una extensión de ocho unidades. Las cuatro unidades restantes corresponderán a etiquetas a través de las cuáles el usuario podrá acceder a iniciar sesión o a los procedimientos de registro necesarios. En el siguiente escalón, encontrará enlaces a través de imágenes, que le permitirán acceder a las redes sociales vinculadas al sitio web. Por último, en la parte inferior de la cabecera, encontrará las diferentes etiquetas que representarán a cada una de las categorías del sitio web, a través de las cuáles podrá accederse a cada una de ellas. En el cuerpo de la página, podrán encontrarse los diferentes contenidos que se encontrarán en el sitio web, a través de las cuáles se podrá acceder a través de un enlace contextual. La extensión de las columnas será combinada, en base a la importancia del contenido en cuestión, algo que será cambiante en base a lo publicado en determinados momentos. Los contenidos más característicos estarán representados por columnas de seis unidades, mientras que las menos relevantes tendrán unidades de dos o cuatro unidades, en base a la importancia que se le decida otorgar.       
 
 ### Log In
 La página de Log-in estará formada por tres columnas horizontales de cuatro unidades de extensión. En ella, el usuario podrá acceder a su página de perfil o registrarse en el sitio web. En ambos casos, sea cual sea la opción escogida por el usuario, la página a la que le llevará tendrá una única columna, también de cuatro unidades, en la que se le ofrecerá al usuario de introducir sus datos de perfil o por el contrario, introducir sus datos personales para proceder a la creación de un usuario. 
@@ -89,17 +114,17 @@ La página de noticias recogerá en un resumen con fotografía incluida lo más 
 ![1noticias](/5-superficie/1noticias.png)
 
 #### Artículos
-La página de artículos recogerá en un resumen con fotografía incluida lo más destacado del artículo, aunque si se trata de artículos breves, todo el contenido se agrupará en la portada de la misma, ya que, de esta forma, se facilitará la navegación del usuario a través del sitio web, ahorrándole pasos absurdos. La estructura de la retícula será de dos columnas combinadas, de unidades distintas, de tal forma que en este sentido, priorizará en cuanto a número de unidades por columna, la importancia del contenido en cuanto a extensión e imágen. La estructura de la página de un determinado artículo variará en función de su importancia, pero contará con un titular y un subtítulo, y en función de su jerarquía, llevará incluida una fotografía en el fondo de la página. 
+La página de artículos recogerá en un resumen con fotografía incluida lo más destacado del artículo, aunque si se trata de artículos breves, todo el contenido se agrupará en la portada de la misma, ya que, de esta forma, se facilitará la navegación del usuario a través del sitio web, ahorrándole pasos absurdos. La estructura de la retícula será de dos columnas combinadas, de unidades distintas, de tal forma que en este sentido, priorizará en cuanto a número de unidades por columna, la importancia del contenido en cuanto a extensión e imagen. La estructura de la página de un determinado artículo variará en función de su importancia, pero contará con un titular y un subtítulo, y en función de su jerarquía, llevará incluida una fotografía en el fondo de la página. 
 
 ![2articulos](/5-superficie/2articulos.png)
 
 #### Reportajes
-Al igual que con las noticias, la página de reportajes contará con una breve introducción acompañado por una fotografía, recogiendo lo más destacado de la pieza informativa. El usuario podrá acceder al contenido en su totalidad clickando sobre el mismo. El diseño de las columnas en este caso será horizontal, con unidades de columnas combinadas, en base a la jerarquía de cada una de las piezas informativas. El reportaje contará con una imagen de fondo relacionada con el tema en cuestión. Normalmente se utilizarán fondos claros para contrastar con la tipografía y permitir una sencilla lectura de los textos. Todos los reportajes tendrán en común un titular en la parte superior, acompañado de un subtítulo. En determinados casos, el reportaje estará publicado también en formato audiovisual, por lo que en la parte inferior se incluirá una ventana con un reproductor de vídeo que permita su correcta visualización. 
+Al igual que con las noticias, la página de reportajes contará con una breve introducción acompañado por una fotografía, recogiendo lo más destacado de la pieza informativa. El usuario podrá acceder al contenido en su totalidad clicando sobre el mismo. El diseño de las columnas en este caso será horizontal, con unidades de columnas combinadas, en base a la jerarquía de cada una de las piezas informativas. El reportaje contará con una imagen de fondo relacionada con el tema en cuestión. Normalmente se utilizarán fondos claros para contrastar con la tipografía y permitir una sencilla lectura de los textos. Todos los reportajes tendrán en común un titular en la parte superior, acompañado de un subtítulo. En determinados casos, el reportaje estará publicado también en formato audiovisual, por lo que en la parte inferior se incluirá una ventana con un reproductor de vídeo que permita su correcta visualización. 
 
 ![3reportajes](/5-superficie/3reportajes.png)
 
 #### Entrevistas
-En esta página se combinarán columnas tanto horizontales como verticales de unidades de tres y seis columnas. Se realizará una breve descripción de a quíen se le ha entrevistado, así como la entrevista más importante. A través de un enlace contextual, el usuario podrá acceder a una nueva página, en la que encontrará un vídeo o una pista de audio con la entrevista íntegra.
+En esta página se combinarán columnas tanto horizontales como verticales de unidades de tres y seis columnas. Se realizará una breve descripción del entrevistado, así como la entrevista más importante. A través de un enlace contextual, el usuario podrá acceder a una nueva página, en la que encontrará un vídeo o una pista de audio con la entrevista íntegra.
 
 ![4entrevistas](/5-superficie/4entrevistas.png)
 
@@ -118,9 +143,9 @@ En esta sección, la página tendrá una estructura definida de cuatro columnas 
 
 ![7quienes](/5-superficie/7quienes.png)
 
-## NOTA DE AGRADECIMIENTO (Ander) 
+## 6. NOTA DE AGRADECIMIENTO (Ander) 
 
-## REFERENCIAS
+## 7. REFERENCIAS
 - Chris Armstrong, The Infinite Grid.
 - Ed Wasserman, Una introducción a las retículas en el diseño web.
 - Grace Fussell, Cómo crear sus propias normas de marca.
