@@ -10,7 +10,7 @@ Las especificaciones funcionales hacen referencia al comportamiento de, en este 
 ## HOYPORTIMAÑANAPORMI.COM
 > **Especificación Funcional**
 
-> Petunia Flores
+> Marina Pérez Maza
 
 > *Última actualización: 4 de noviembre, 2018*
                   
@@ -43,7 +43,6 @@ Dolores tiene 65 años y mientras horneaba un bizcoho para celebrar el cumpleañ
 ### 3. NO OBJETIVOS
 Esta versión *no* incluirá las siguientes funciones:
 
-* Compra de productos
 * Suscripción de pago
 * Publicación diraria de contenido
 * Un lugar físico de contacto (oficina)
@@ -70,11 +69,7 @@ El usuario no registrado se describe como el visitante ocasional y dispondrá de
 #### 4.1.2. Usuario voluntario (registrado)
 El usuario registrado heredará las funcionalidades del usuario no registrado y dispondrá de nuevos requisitos funcionales:
 
-  * **Registrarse:** deberan rellenar un formulario con los datos necesario y aceptar los términos legales sobre difusión y gestión de datos. 
-
-  * **Autentificarse:** para poder acceder al contenido los usuarios voluntarios deberan hacer un log-in (usuario y contraseña).
-
-  * **Realizar comentarios de mejoras y cambios:** la página web tendrá una funcionalidad para que los usuarios puedan realizar comentarios (privados) de mejoras o cambios en el contenido público. 
+  * **Autentificarse:** para poder acceder al contenido los usuarios voluntarios deberan hacer un log-in (usuario y contraseña). 
 
   * **Compartir información:** los usuarios voluntarios podrán compartir contenido relacionado con la igualdad de género. Para ello, tendrán una lugar específico donde poder adjuntar la información. 
 
@@ -89,9 +84,9 @@ El usuario administrador heredará las funcionalidades disponibles para los ivel
 
 
 - **Gestor de los perfiles registrados:**
-  * **Gestión de perfiles:** el administrador, en el caso que sea necesario, podrá cambiar las funcionalidades concretas del usuario voluntario o incluso añadir nuevas.
+  * **Gestión de perfiles:** el administrador, en el caso que sea necesario, podrá cambiar las funcionalidades concretas del usuario voluntario o incluso añadir nuevas, por ejemplo si el usuario voluntario estuviese haciendo tareas fuera de lugar las cuales el administrador considera que son inapropiadas, este tiene el poder de bloquear al usuario. 
   
-  * **Gestión de la base de datos:** el administrado del sitio web tiene acceso a la base de datos de los perfiles registrados. 
+  * **Gestión de la base de datos:** el administrado del sitio web tiene acceso a la base de datos de los perfiles registrados, ees decir tiene opción de analizar los datos que el usuario a la hora de registrarse envió. Y este análisis de datos sirve para sacar estadísticas, observar que tipo de usuarios atrae el sitio web, etc.  
 
   * **Gestión del contenido adjuntado por el usuario voluntario:** el administrador será quien analice el contenido compartido por los usuarios voluntarios y también será quien decida qué contenido se publicará y cuál no. 
 
