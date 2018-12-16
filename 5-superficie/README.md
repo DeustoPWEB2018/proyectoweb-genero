@@ -95,7 +95,16 @@ A continuación se aprecia, de manera visual, qué tipo de tipografía se emplea
 
 ![usotipo](/5-superficie/usotipo.png)
 
-## 4. GUÍA DE FOTOGRAFÍAS (Ander)
+## 4. GUÍA DE FOTOGRAFÍAS
+
+• El logotipo de nuestra empresa no se podrá colocar en el interior de las imágenes que se seleccionen. Es importante que se respete el logo en su forma y colores originales, sin quitarle importancia, por lo que es necesario que aparezca por si solo.
+
+Se aconseja no utilizar imágenes excesivamente cargadas que se lleven la atención por delante de elementos como el texto o el propio logo.
+
+• Las fotos y los gráficos que fueron seleccionados que deberán ser publicados junto al logotipo han de tener la cualidad de mostrar realidades en relación a la desigualdad de género. Estas imagenes deberán seguir unos valores de igualdad y, en ningún caso se buscará dar morbo.
+
+• Deberán evitarse imágenes explícitas de violencia, sangre y/o armas en elementos que tengan que ver con nuestra marca.
+
 
 ## 5. REJILLAS 
 
@@ -146,7 +155,15 @@ En esta sección, la página tendrá una estructura definida de cuatro columnas 
 
 ![7quienes](/5-superficie/7quienes.png)
 
-## 6. NOTA DE AGRADECIMIENTO (Ander) 
+## 6. NOTA DE AGRADECIMIENTO 
+
+Desde HOYPORTIMAÑANAPORMI.COM queremos darte las gracias por haber llegado hasta aquí. Agradecemos también la importancia e implicación que estás a punto de desarrollar con nuestra marca, y esperamos que gracias a ti todo nuestro proyecto se convierta en más grande y de mayor calidad.
+
+Se bienvenido a HOYPORTIMAÑANAPORMI.COM.
+
+Un saludo.
+
+Dirección general
 
 ## 7. REFERENCIAS
 - Chris Armstrong, The Infinite Grid.
