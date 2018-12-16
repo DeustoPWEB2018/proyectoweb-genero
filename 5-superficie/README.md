@@ -83,9 +83,11 @@ Montserrat es la tipografía seleccionada para las secciones como noticias, repo
 El texto “Hoy por ti” contiene la tipografía **League Spartan** y el texto “mañana por mí” la tipografía **Montserrat**. Ambos textos están en color negro.
 
 *“HOY POR TI”*
+
 ![league](/5-superficie/league.png)
 
-*“MAÑANA POR MÍ”*       
+*“MAÑANA POR MÍ”*     
+  
 ![montserrat](/5-superficie/montserrat.png)
   
 ### 3.4. Uso de la tipografía 
