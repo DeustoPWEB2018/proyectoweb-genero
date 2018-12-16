@@ -10,12 +10,12 @@ El elemento principal del logotipo son los símbolos que definen a la mujer y al
  
 Hay tres logos corporativos del sitio web:
  
-### Logo horizontal
+### 1.1. Logo horizontal
 Este logo se utilizará como logo principal en el sitio web. La combinación de colores es la siguiente: blanco, negro, rosa y azul.
 
 ![horizontal](/5-superficie/horizontal.png)
 
-### Logo miniatura/centrado
+### 1.2. Logo miniatura/centrado
 Este formato del logo está formado únicamente por los dos símbolos representantes del género femenino y el género masculino, servirá como seña de identidad en las plataformas de Facebook, Instagram y Twitter; y se utilizará como foto de perfil.
 
 ![miniatura](/5-superficie/miniatura.png)
@@ -24,13 +24,14 @@ Este formato del logo está formado únicamente por los dos símbolos representa
 
 *Ejemplo del perfil de Instagram.*
 
-### El logo en la cabecera del sitio web 
+### 1.3. El logo en la cabecera del sitio web 
 La cabecera de HOYPORTIMAÑANAPORMI.COM se compone de dos elementos: logotipo a la izquierda y botones de “log in” y “regístrate” junto con las redes sociales del sitio web a la derecha.
 
 ![cabecera](/5-superficie/cabecera.png)
 
 ## 2. GUÍA DE COLOR
-**Los colores principales de la web:**
+
+### 2.1.Los colores principales de la web:**
 
 **Rosa y azul**
 
@@ -60,7 +61,7 @@ El color blanco forma parte del fondo del sitio web, por lo que el contenido ir�
 
 Esta es la relación de los principales colores de la web, están descritos con su color hexagesimal para poder identificarlos rápido y adecuadamente.
  
-### Uso de los colores
+### 2.2. Uso de los colores
 
 ![webcolor](/5-superficie/webcolor.png)
 
@@ -68,17 +69,17 @@ Esta es la relación de los principales colores de la web, están descritos con 
 ## 3. GUÍA DE FUENTES
 A continuación, se describe la tipografía empleada para cada apartado del sitio web, siempre pensando que sea una tipografía legible para el usuario.
 
-### Texto / Títulos y botones “log in” y “registrate”
+### 3.1. Texto / Títulos y botones “log in” y “registrate”
 Tanto para el texto del sitio web como para los botones “log in” y “registrate” se ha empleado Helvética una tipografía legible en web la cual se emplea en la mayoría del contenido: el contenido de las noticias, el contenido de las historias reales, reportajes, etc. Hay excepciones en la tipografía de los títulos y secciones, ya que variarán con la tipografía Montserrat.
 
-![helvetica](/5-superficie/helvetica.png)
+![helveticas](/5-superficie/helveticas.png)
 
-### Tipografía de las secciones
+### 3.2. Tipografía de las secciones
 Montserrat es la tipografía seleccionada para las secciones como noticias, reportajes, entrevistas, consejos, historias reales, quiénes somos y contacto. 
 
 ![montserrat](/5-superficie/montserrat.png)
 
-###Tipografía del logo
+### 3.3. Tipografía del logo
 El texto “Hoy por ti” contiene la tipografía **League Spartan** y el texto “mañana por mí” la tipografía **Montserrat**. Ambos textos están en color negro.
 
 *“HOY POR TI”*
@@ -87,7 +88,7 @@ El texto “Hoy por ti” contiene la tipografía **League Spartan** y el texto 
 *“MAÑANA POR MÍ”*       
 ![montserrat](/5-superficie/montserrat.png)
   
-### Uso de la tipografía 
+### 3.4. Uso de la tipografía 
 A continuación se aprecia, de manera visual, qué tipo de tipografía se emplea en cada caso: logo, secciones, titulares, texto, etc.
 
 ![usotipo](/5-superficie/usotipo.png)
