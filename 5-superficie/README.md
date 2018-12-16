@@ -22,7 +22,7 @@ Este formato del logo está formado únicamente por los dos símbolos representa
 
 ![insta](/5-superficie/insta.png)
 
-*Ejemplo del perfil de Instagram*
+*Ejemplo del perfil de Instagram.*
 
 ### El logo en la cabecera del sitio web 
 La cabecerade HOYPORTIMAÑANAPORMI.COM se compone de dos elementos: logotipo a la izquierda y botones de “log in” y “regístrate” junto con las redes sociales del sitio web a la derecha.
