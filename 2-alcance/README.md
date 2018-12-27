@@ -63,7 +63,8 @@ El contenido relacionado con la igualdad de género se divide en las anteriores 
 ### 4.2. Requisitos funcionales de usuarios
 Como se ha comentado en el anterior apartado, la página web dispondrá inicialmente de 3 perfiles de usuario distinto (usuario administrador, usuario voluntario y usuario no registrado), cada uno con requisitos funcionales específicos.
 Así mismo, existirán 3 niveles jerárquicos: el primer nivel está formado por el usuario no registrado, el segundo nivel por el usuario voluntario y finalmente el tercer nivel por el usuario administrador del sitio web. Los usuarios de cada nivel tendrán asignadas sus funcionalidades pero también heredarán las de los niveles inferiores (el usuario administrador podrá acceder a las funcionalidades del voluntario y del no registrado; y el usuario voluntario podrá acceder a las del usuario no registrado). En la siguiente imagen se muestra la relación entre niveles.
-![Niveles de usuarios](/2-alcance/Niveles.png)
+
+![Niveles de usuarios](/2-alcance/Niveles.png) 
 
 A continuación se presentan los requisitos de funcionamiento específicos de cada perfil de usuario.
 
@@ -75,11 +76,12 @@ El usuario no registrado se describe como el visitante ocasional y dispondrá de
 
 #### 4.2.2. Usuario voluntario (registrado)
 El usuario registrado heredará las funcionalidades del usuario no registrado y dispondrá de nuevos requisitos funcionales:
-**Autentificarse:** para poder acceder al contenido los usuarios voluntarios deberán hacer un log-in (usuario y contraseña).
-**Compartir información:** los usuarios voluntarios podrán compartir contenido relacionado con la igualdad de género. Para ello, tendrán una lugar específico donde poder adjuntar la información.
+* **Autentificarse:** para poder acceder al contenido los usuarios voluntarios deberán hacer un log-in (usuario y contraseña).
+* **Compartir información:** los usuarios voluntarios podrán compartir contenido relacionado con la igualdad de género. Para ello, tendrán una lugar específico donde poder adjuntar la información.
 
 #### 4.2.3. Usuario administrador
 El usuario administrador heredará las funcionalidades disponibles para los niveles inferiores de usuario de la página web, y además dispondrá de los siguientes requisitos funcionales:
+
 **Gestor de contenido:**
 * Agregar contenido
 * Editar contenido
@@ -153,27 +155,27 @@ Según Lee Thomas, es necesario seguir los siguientes criterios para priorizar e
 
 #### Primeras decisiones:
 
-Canal: Página web.
+* Canal: Página web.
 
-Plataforma: Utilizaremos la más que conocida herramienta Wordpress.
+* Plataforma: Utilizaremos la más que conocida herramienta Wordpress.
 
-Formato: La página web será un entorno multimedia donde tanto artículos, como podcasts, como video reportajes tendrán lugar. Por ello, consideramos nuestra página web como multiformato.
+* Formato: La página web será un entorno multimedia donde tanto artículos, como podcasts, como video reportajes tendrán lugar. Por ello, consideramos nuestra página web como multiformato.
 
-Mensaje Clave: Trataremos de crear un sentimiento de pertenencia a nuestra web y nuestra labor a través de los hechos que narraremos y a los que daremos foco. Serán temas sobre igualdad de género, un tema en el que muchas personas están involucradas de antemano. Nosotros les daremos un portal donde todo se junte.
+* Mensaje Clave: Trataremos de crear un sentimiento de pertenencia a nuestra web y nuestra labor a través de los hechos que narraremos y a los que daremos foco. Serán temas sobre igualdad de género, un tema en el que muchas personas están involucradas de antemano. Nosotros les daremos un portal donde todo se junte.
 
 #### Navegación:
 
-Nomenclatura: La web irá dividida por secciones muy definidas. Por un lado tendremos la sección de Noticias, donde la prensa escrita será la reina. En segundo lugar encontraremos la sección Reportajes, donde los contenidos audiovisuales tendrán su espacio. Por último, también dispondremos de una sección de podcasts, aún por definir, en la que incluiremos todo el material radiofónico que creemos.
+* Nomenclatura: La web irá dividida por secciones muy definidas. Por un lado tendremos la sección de Noticias, donde la prensa escrita será la reina. En segundo lugar encontraremos la sección Reportajes, donde los contenidos audiovisuales tendrán su espacio. Por último, también dispondremos de una sección de podcasts, aún por definir, en la que incluiremos todo el material radiofónico que creemos.
 
-Hipervínculos: Todas y cada una de nuestras entradas dispondrá de links tanto al contenido como a las diferentes fuentes utilizadas para consultar los contenidos generados. Además, también enlazaremos nuestras respectivas cuentas de Twitter, Facebook e Instagram en aras de aumentar el volumen de material compartido en la red.
+* Hipervínculos: Todas y cada una de nuestras entradas dispondrá de links tanto al contenido como a las diferentes fuentes utilizadas para consultar los contenidos generados. Además, también enlazaremos nuestras respectivas cuentas de Twitter, Facebook e Instagram en aras de aumentar el volumen de material compartido en la red.
 
-Microcopias: Trataremos de utilizar esta herramienta en aquellas ocasiones en las que el material sea sensible o deba guardarse un mínimo de respeto por el mismo. Además, en la zona de registro añadiremos pequeños textos explicativos donde ayudaremos al usuario a llevar a cabo el trabajo.
+* Microcopias: Trataremos de utilizar esta herramienta en aquellas ocasiones en las que el material sea sensible o deba guardarse un mínimo de respeto por el mismo. Además, en la zona de registro añadiremos pequeños textos explicativos donde ayudaremos al usuario a llevar a cabo el trabajo.
 
-Etiquetas: Exigiremos a nuestros redactores un mínimo de 10 etiquetas por cada contenido subido, para así poder darle un uso adecuado a la barra de búsqueda que situaremos dentro de la propia página.
+* Etiquetas: Exigiremos a nuestros redactores un mínimo de 10 etiquetas por cada contenido subido, para así poder darle un uso adecuado a la barra de búsqueda que situaremos dentro de la propia página.
 
 #### Herramientas útiles:
 
-Mapa del sitio: Aún por definir cual será la estructura final de nuestra web al 100%, trazaremos un minucioso mapa del sitio. Con ello, ayudaremos a los desarrolladores a poder localizarse de manera sencilla, además de servirnos para generar una tabla de página en la que llevar todo a un nivel superior.
+* Mapa del sitio: Aún por definir cual será la estructura final de nuestra web al 100%, trazaremos un minucioso mapa del sitio. Con ello, ayudaremos a los desarrolladores a poder localizarse de manera sencilla, además de servirnos para generar una tabla de página en la que llevar todo a un nivel superior.
 
 
 ### REFERENCIAS
