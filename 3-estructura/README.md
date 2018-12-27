@@ -69,7 +69,7 @@ A su vez, se ha decidido realizar la prueba sobre los contenidos que pertenecen 
 
 La tabla situada en la parte inferior muestra los resultados que se obtuvieron en la prueba del card sorting, de forma que la respuesta de cada pareja de usuarios se contabiliza a través de un voto. 
 
-![clasificacion](/3-estructura/clasificacion.png)
+![clasificacion](/3-estructura/clasificacion.PNG)
 
 En la prueba, los encuestados han agrupado dichos contenidos en un total de 10 grupos, siendo estos los siguientes: 
 
