@@ -5,7 +5,7 @@
 En el siguiente apartado, se va a especificar la estructura del alcance que tendrá el sitio web. El contenido se dividirá en dos fragmentos principales, como son las especificaciones funcionales y los requerimientos de contenido.
 
 ## ESPECIFICACIONES FUNCIONALES
-Las especificaciones funcionales hacen referencia al comportamiento de, en este caso, una página web relacionada con la igualdad de género. La página web se llama Hoyportimañanapormi.com y en ella se encuentra contenido de todo tipo: noticias, reportajes, entrevistas, artículos, historias, consejos, etc.
+Las especificaciones funcionales hacen referencia al comportamiento de, en este caso, una página web relacionada con la igualdad de género. La página web se llama Hoyportimañanapormi.com y en ella se encuentra contenido relacionado con la igualdad de género.
 
 ## HOYPORTIMAÑANAPORMI.COM
 > **Especificación Funcional**
@@ -21,80 +21,83 @@ Las especificaciones funcionales hacen referencia al comportamiento de, en este 
 
 El sitio web necesitará un usuario gestor de contenidos, es decir un usuario administrador que se encargará de actualizar todo el contenido de la página. Por otro lado, existirá un usuario voluntario que trata de aquellos usuarios que quieran formar parte de este proyecto y quieran proporcionar información interesante relacionada con la igualdad de género. Por supuesto esa información tendrá que pasar por la supervisión del usuario administrador; el cual decidirá añadir o no el contenido. Y finalmente, se encuentra el usuario no registrado que será aquel que entre al sitio web y que consuma el contenido sin tener que registrarse. 
 
-La pagina web estará divida en dos partes: la información estática (contacto, quiénes somos, log-in)  y la información dinámica (noticias, articulos, reportajes, entrevistas, historias reales, consejos).
+La página web estará divida en dos partes: la información estática (contacto, quiénes somos, log-in)  y la información dinámica (noticias, artículos, reportajes, entrevistas, historias reales, consejos).
 
 ### 2. ESCENARIOS
 En este apartado se han creado tres escenarios supuestos donde se imagina el uso que le pueden dar los usuarios del sitio web. A continuación se encuentran los siguientes escenarios:
 
 #### 2.1. Escenario 1: Paula y su desconocimiento
-Paula tiene 43 años, es directora informática de BOSCH Bilbao pero no todo es perfecto. Se encuentra dentro de una relación sentimental un tanto tóxica o eso empieza a sentir ella. No se atreve a hablar con su entorno sobre las situaciones que está viviendo con su actual pareja. Y como no tiene donde refugiarse decide sumergirse en Internet. En una de sus redes sociales (Facebook), allí encuentra una publicación que ha compartido una amiga suya y que trata sobre un sitio web donde tratan contenido relacionado con la igualdad de género; pero sobre todo es un lugar de refugio, ayuda y consejo. En consecuencia, Paula decide hacer clic en el enlace y entrar en hoyportimañanapormi.com. 
-
-Paula encuentra un sitio web que muestra la realidad de la sociedad ante la igualdad de género, encuentra entrevistas con expertos (psicólogos, abogados) que tratan temas de violencia de género y sobre todo encuentra historias reales de otras mujeres que le hacen recapacitar que ella misma está viviendo una relación insana y que no puede permitirlo. Debido al impacto que tuvo para Paula este sitio web, decide ponerse en contacto con *hoyportimañanapormi.com* para pedir más información y para trasladarles su historia para que la publicasen con el objetivo de ayudar a otras personas como lo hicieron las historias de otras mujeres a ella. Por lo tanto, Paula es un usuario voluntario ya que se ha registrado en el sistema, cuenta con su propia cuenta y puede compartir contenido en la página web.
+Paula tiene 43 años, es directora informática de BOSCH Bilbao pero no todo es perfecto. Se encuentra dentro de una relación sentimental un tanto tóxica o eso empieza a sentir ella. No se atreve a hablar con su entorno sobre las situaciones que está viviendo con su actual pareja. Y como no tiene donde refugiarse decide sumergirse en Internet. Paula accede desde su propio móvil  a una de e sus redes sociales favoritas (Facebook), allí encuentra una publicación que ha compartido una amiga suya y que trata sobre un sitio web donde tratan contenido relacionado con la igualdad de género. No ha podido consultar la página porque tenía que bajarse del autobús y decide consultarla más tranquilamente después de cenar y desde la tablet. A paula le ha apasionado la página web ya que sobre todo es un lugar de refugio, ayuda y consejo. En consecuencia, Paula decide registrarse rápidamente ya que es un sitio web que muestra la realidad de la sociedad ante la igualdad de género, encuentra entrevistas con expertos (psicólogos, abogados) que tratan temas de violencia de género y sobre todo encuentra historias reales de otras mujeres que le hacen recapacitar que ella misma está viviendo una relación insana y que no puede permitirlo. Debido al impacto que tuvo para Paula este sitio web, decide ponerse en contacto con *hoyportimañanapormi.com* para pedir más información y para trasladarles su historia para que la publicas en con el objetivo de ayudar a otras personas como lo hicieron las historias de otras mujeres a ella. Por lo tanto, Paula es un usuario voluntario ya que se ha registrado en el sistema, cuenta con su propia cuenta y puede compartir contenido en la página web.
 
 #### 2.2. Escenario 2: Juan y su trabajo para la universidad
-Juan tiene 21 años y es un estudiante de criminología. Se encuentra en cuarto curso y en unos meses termina sus estudios universitarios. Para la universidad debe realizar un trabajo sobre diferentes casos de violencia de género y para ello decide acceder a la web hoyportimañanapormi.com. Es una página web muy completa, ya que dispone de diferentes apartados y todos muy útiles para que pueda elaborar su trabajo. En la web puede encontrar: noticias, artículos, reportajes, entrevistas, historias reales y consejos. Es una web que ya conocía de hace tiempo ya que es un tema que le interesa y le preocupa.
+Juan tiene 21 años y es un estudiante de criminología. Se encuentra en cuarto curso y en unos meses termina sus estudios universitarios. Para la universidad debe realizar un trabajo sobre diferentes casos de violencia de género y para ello accede a la web hoyportimañanapormi.com. Cuándo termina las clases decide ir a la biblioteca y desde su propio ordenador entra a la web, es una página web muy completa, ya que dispone de diferentes apartados y todos muy útiles para que pueda elaborar su trabajo. En la web puede encontrar: noticias, artículos, reportajes, entrevistas, historias reales y consejos. Es una web que ya conocía de hace tiempo ya que es un tema que le interesa y le preocupa.
 
-La web le resulta muy útil (ya que su contenido es actualizado constantemente), tanto para el trabajo universitario como para enriquecerse personalmente. Pedro es un usuario no registrado que simplemente accediendo a la página web podrá encontrar todo el contenido que deseé sin tener que registrarse. El incoveniente de no estar registrado es que no podrá actualizar el contenido
+La web le resulta muy útil (ya que su contenido es actualizado constantemente), tanto para el trabajo universitario como para enriquecerse personalmente. Juan es un usuario no registrado que simplemente accediendo a la página web podrá encontrar todo el contenido que desee sin tener que registrarse. El inconveniente de no estar registrado es que no podrá actualizar el contenido.
 
 #### 2.3. Escenario 3: Dolores y sus ganas de aprender
-Dolores tiene 65 años y mientras horneaba un bizcoho para celebrar el cumpleaños de su amiga Encarna ha visto en las noticias un nuevo caso de desigualdad de género por parte de la empresa Inditex. A Dolores le encanta mantenerse informada y con sus escasos conocimientos de informática ha decidido indagar en su ordenador de mesa que poseé. Tecleando e investigando un poco a encontrado la página web perfecta para seguir informándose: hoyportimañanapormi.com. No es solo una página web que se mantiene en constante actualización, es facil de usar y muy legible justo lo que Dolores necesita. Dolores se ha quedado encantada con la página web y le ha parecido tan facil de usar que no ha dudado ni un segundo en registrarse para poder añadir contenido y empezar a colaborar ¡qué animada!. Por lo tanto, ha pasado de ser usuario no registrado a usuario voluntario. Dolores ya tiene una nueva página web favorita hoyportimañanapormi.com y como no, lasrecetasdemj.com.
+Dolores tiene 65 años y mientras horneaba un bizcocho para celebrar el cumpleaños de su amiga Encarna ha visto en las noticias un nuevo caso de desigualdad de género por parte de la empresa Inditex. A Dolores le encanta mantenerse informada y con sus escasos conocimientos de informática ha decidido indagar en su ordenador de mesa que poseé. Tecleando e investigando un poco a encontrado la página web perfecta para seguir informándose: hoyportimañanapormi.com. No es solo una página web que se mantiene en constante actualización, es fácil de usar y muy legible justo lo que Dolores necesita. Dolores se ha quedado encantada con la página web y le ha parecido tan fácil de usar que no ha dudado ni un segundo en registrarse para poder añadir contenido y empezar a colaborar ¡qué animada!. Por lo tanto, ha pasado de ser usuario no registrado a usuario voluntario. Dolores ya tiene una nueva página web favorita hoyportimañanapormi.com y como no, lasrecetasdemj.com.
 
 
 ### 3. NO OBJETIVOS
 Esta versión *no* incluirá las siguientes funciones:
 
 * Suscripción de pago
-* Publicación diraria de contenido
+* Publicación diaria de contenido
 * Un lugar físico de contacto (oficina)
 * Opción de consumir contenido únicamente estando registrado
 
 ### 4. DETALLES
-#### 4.1. Requisitos funcionales de usuarios
-Como se ha comentado en el anterior apartado, la página web dispondrá inicialmente de 3 perfiles de usuario distinto (usuario administrador, usuario voluntario y usuario no registrado), cada uno con requisitos funcinales específicos.
+#### 4.1. Contenido
+El contenido que se encuentra en el sitio web Hoyportimañanapormi.com es el siguiente:
+* Noticias
+* Reportajes
+* Entrevistas
+* Artículos
+* Historias reales
+* Consejos
 
-Así mismo, existirán 3 niveles jerarquicos: el primer nivel está formado por el usuario no registrado, el segundo nivel por el usuario voluntario y finalmente el tercer nivel por el usuario administrador del sitio web. Los usuarios de cada nivel tendrán asignadas sus funcionalidades pero también heredarán las de los niveles inferiores (el usuario administrador podrá acceder a las funcionalidades del voluntario y del no registrado; y el usuario voluntario podrá acceder a las del usuario no registrado). En la siguiente imagen se muestra la relación entre niveles. 
+El contenido relacionado con la igualdad de género se divide en las anteriores 6 secciones, sin embargo el sitio web cuenta con 2 secciones más relacionadas con la información y descripción del sitio web.
+* Quiénes somos
+* Contacto
 
-![Niveles de usuarios](/2-alcance/Niveles.png)
+### 4.2. Requisitos funcionales de usuarios
+Como se ha comentado en el anterior apartado, la página web dispondrá inicialmente de 3 perfiles de usuario distinto (usuario administrador, usuario voluntario y usuario no registrado), cada uno con requisitos funcionales específicos.
+Así mismo, existirán 3 niveles jerárquicos: el primer nivel está formado por el usuario no registrado, el segundo nivel por el usuario voluntario y finalmente el tercer nivel por el usuario administrador del sitio web. Los usuarios de cada nivel tendrán asignadas sus funcionalidades pero también heredarán las de los niveles inferiores (el usuario administrador podrá acceder a las funcionalidades del voluntario y del no registrado; y el usuario voluntario podrá acceder a las del usuario no registrado). En la siguiente imagen se muestra la relación entre niveles.
 
-A continuación se presentan los requisitos de funcionamiento especificos de cada perfil de usuario.
+![Niveles de usuarios](/2-alcance/Niveles.png) 
 
-#### 4.1.1. Usuario no registrado.
-El usuario no registrado se describe como el visitante ocasional y dispondrá de los siguientes requisitos funcionales: 
+A continuación se presentan los requisitos de funcionamiento específicos de cada perfil de usuario.
 
-  * **Acceso al contenido público:** este usuario tendrá acceso a todo el contenido que esté oficialmente publicado en el sitio web. No tendrá que registrarse para poder consumir el contenido. Tendrá acceso a: noticias, reportajes, articulos, entrevistas, historias reales, consejos, quiénes somos y contacto.
+### 4.2.1. Usuario no registrado.
+El usuario no registrado se describe como el visitante ocasional y dispondrá de los siguientes requisitos funcionales:
+* **Acceso al contenido público:** este usuario tendrá acceso a todo el contenido que esté oficialmente publicado en el sitio web. No tendrá que registrarse para poder consumir el contenido. Tendrá acceso a: noticias, reportajes, artículos, entrevistas, historias reales, consejos, quiénes somos y contacto.
 
-  * **Registrarse:** tendrán la opción disponible para registrarse en *hoyportimañanapormi.com* opción para convertirse en un usuario voluntario. 
+* **Registrarse:** tendrán la opción disponible para registrarse en hoyportimañanapormi.com opción para convertirse en un usuario voluntario.
 
-
-#### 4.1.2. Usuario voluntario (registrado)
+#### 4.2.2. Usuario voluntario (registrado)
 El usuario registrado heredará las funcionalidades del usuario no registrado y dispondrá de nuevos requisitos funcionales:
+* **Autentificarse:** para poder acceder al contenido los usuarios voluntarios deberán hacer un log-in (usuario y contraseña).
+* **Compartir información:** los usuarios voluntarios podrán compartir contenido relacionado con la igualdad de género. Para ello, tendrán una lugar específico donde poder adjuntar la información.
 
-  * **Autentificarse:** para poder acceder al contenido los usuarios voluntarios deberan hacer un log-in (usuario y contraseña). 
+#### 4.2.3. Usuario administrador
+El usuario administrador heredará las funcionalidades disponibles para los niveles inferiores de usuario de la página web, y además dispondrá de los siguientes requisitos funcionales:
 
-  * **Compartir información:** los usuarios voluntarios podrán compartir contenido relacionado con la igualdad de género. Para ello, tendrán una lugar específico donde poder adjuntar la información. 
+**Gestor de contenido:**
+* Agregar contenido
+* Editar contenido
+* Eliminar contenido
 
+**Gestor de los perfiles registrados:**
+* **Gestión de perfiles:** el administrador, en el caso que sea necesario, podrá cambiar las funcionalidades concretas del usuario voluntario o incluso añadir nuevas, por ejemplo si el usuario voluntario estuviese haciendo tareas fuera de lugar las cuales el administrador considera que son inapropiadas, este tiene el poder de bloquear al usuario.
+* **Gestión de la base de datos:** el administrador del sitio web tiene acceso a la base de datos de los perfiles registrados, es decir tiene opción de analizar los datos que el usuario a la hora de registrarse envió. Y este análisis de datos sirve para sacar estadísticas, observar que tipo de usuarios atrae el sitio web, etc.
 
-#### 4.1.3. Usuario administrador
-El usuario administrador heredará las funcionalidades disponibles para los iveles inferiroes de usuario de la página web, y además dispondrá de los siguinetes requisitos funcionales:
+* **Gestión del contenido adjuntado por el usuario voluntario:** el administrador será quien analice el contenido compartido por los usuarios voluntarios y también será quien decida qué contenido se publicará y cuál no.
 
-- **Gestor de contenido:**
-  * **Agregar contenido**
-  * **Editar contenido**
-  * **Eliminar contenido**
+* **Gestión de incidencias:** teniendo en cuenta que el administrador tiene acceso a la base de datos de los perfiles registrados, este gestionará posibles incidencias que ocurran durante el funcionamiento del sitio web (dar de baja usuarios, eliminar contenido, etc.).
 
+**Gestor de la configuración del sitio web:**
+El resto de tareas relacionadas con el sitio web serán responsabilidad del usuario administrador: configuración de contenido, diseño, etc.
 
-- **Gestor de los perfiles registrados:**
-  * **Gestión de perfiles:** el administrador, en el caso que sea necesario, podrá cambiar las funcionalidades concretas del usuario voluntario o incluso añadir nuevas, por ejemplo si el usuario voluntario estuviese haciendo tareas fuera de lugar las cuales el administrador considera que son inapropiadas, este tiene el poder de bloquear al usuario. 
-  
-  * **Gestión de la base de datos:** el administrado del sitio web tiene acceso a la base de datos de los perfiles registrados, ees decir tiene opción de analizar los datos que el usuario a la hora de registrarse envió. Y este análisis de datos sirve para sacar estadísticas, observar que tipo de usuarios atrae el sitio web, etc.  
-
-  * **Gestión del contenido adjuntado por el usuario voluntario:** el administrador será quien analice el contenido compartido por los usuarios voluntarios y también será quien decida qué contenido se publicará y cuál no. 
-
-  * **Gestión de incidencias:** teniendo en cuenta que el administrador tiene acceso a la base de datos de los perfiles resgistrados, este gestionará posibles incidencias que ocurran durante el funcionamiento del sitio web (dar de baja usuarios, eliminar contenido, etc.).
-
-
-- **Gestor de la configuración del sitio web:**
-  * El **resto de tareas** relacionadas con el sitio web serán responsabilidad del usuario administrador: configuración de contenido, diseño, etc. 
 
 ## REQUERIMIENTOS DE CONTENIDOS
 
@@ -142,7 +145,7 @@ Según Lee Thomas, es necesario seguir los siguientes criterios para priorizar e
 
 * Requisitos: La decisión de ofrecer este tipo de contenidos a la sociedad es la necesidad de concienciar acerca del problema existente acerca de la desigualdad de género.
 
-* Alcance: La audiencia se limitará a la población residente en Gipuzkoa, a pesar de que los contenidos propiamente pueden ser útiles o interesantes de leer para personas de habla hispana a las que les interese profundizar sus conocimientos acerca del tema.
+* Alcance: La audiencia se limitará a la población residente en Euskadi, a pesar de que los contenidos propiamente pueden ser útiles o interesantes de leer para personas de habla hispana a las que les interese profundizar sus conocimientos acerca del tema.
 
 * Relevancia: El valor ofrecido debe ser distinto para los usuarios que accedan a la página web. Un contenido que no encuentren en otro sitio web, basado en la profundidad y en un contenido que sea útil para ampliar conocimiento acerca del tema, tal y como hemos explicado anteriormente en el apartado de mensaje.
 
@@ -152,31 +155,32 @@ Según Lee Thomas, es necesario seguir los siguientes criterios para priorizar e
 
 #### Primeras decisiones:
 
-Canal: Página web.
+* Canal: Página web.
 
-Plataforma: Utilizaremos la más que conocida herramienta Wordpress.
+* Plataforma: Utilizaremos la más que conocida herramienta Wordpress.
 
-Formato: La página web será un entorno multimedia donde tanto artículos, como podcasts, como video reportajes tendrán lugar. Por ello, consideramos nuestra página web como multiformato.
+* Formato: La página web será un entorno multimedia donde tanto artículos, como podcasts, como video reportajes tendrán lugar. Por ello, consideramos nuestra página web como multiformato.
 
-Mensaje Clave: Trataremos de crear un sentimiento de pertenencia a nuestra web y nuestra labor a través de los hechos que narraremos y a los que daremos foco. Serán temas sobre igualdad de género, un tema en el que muchas personas están involucradas de antemano. Nosotros les daremos un portal donde todo se junte.
+* Mensaje Clave: Trataremos de crear un sentimiento de pertenencia a nuestra web y nuestra labor a través de los hechos que narraremos y a los que daremos foco. Serán temas sobre igualdad de género, un tema en el que muchas personas están involucradas de antemano. Nosotros les daremos un portal donde todo se junte.
 
 #### Navegación:
 
-Nomenclatura: La web irá dividida por secciones muy definidas. Por un lado tendremos la sección de Noticias, donde la prensa escrita será la reina. En segundo lugar encontraremos la sección Reportajes, donde los contenidos audiovisuales tendrán su espacio. Por último, también dispondremos de una sección de podcasts, aún por definir, en la que incluiremos todo el material radiofónico que creemos.
+* Nomenclatura: La web irá dividida por secciones muy definidas. Por un lado tendremos la sección de Noticias, donde la prensa escrita será la reina. En segundo lugar encontraremos la sección Reportajes, donde los contenidos audiovisuales tendrán su espacio. Por último, también dispondremos de una sección de podcasts, aún por definir, en la que incluiremos todo el material radiofónico que creemos.
 
-Hipervínculos: Todas y cada una de nuestras entradas dispondrá de links tanto al contenido como a las diferentes fuentes utilizadas para consultar los contenidos generados. Además, también enlazaremos nuestras respectivas cuentas de Twitter, Facebook e Instagram en aras de aumentar el volumen de material compartido en la red.
+* Hipervínculos: Todas y cada una de nuestras entradas dispondrá de links tanto al contenido como a las diferentes fuentes utilizadas para consultar los contenidos generados. Además, también enlazaremos nuestras respectivas cuentas de Twitter, Facebook e Instagram en aras de aumentar el volumen de material compartido en la red.
 
-Microcopias: Trataremos de utilizar esta herramienta en aquellas ocasiones en las que el material sea sensible o deba guardarse un mínimo de respeto por el mismo. Además, en la zona de registro añadiremos pequeños textos explicativos donde ayudaremos al usuario a llevar a cabo el trabajo.
+* Microcopias: Trataremos de utilizar esta herramienta en aquellas ocasiones en las que el material sea sensible o deba guardarse un mínimo de respeto por el mismo. Además, en la zona de registro añadiremos pequeños textos explicativos donde ayudaremos al usuario a llevar a cabo el trabajo.
 
-Etiquetas: Exigiremos a nuestros redactores un mínimo de 10 etiquetas por cada contenido subido, para así poder darle un uso adecuado a la barra de búsqueda que situaremos dentro de la propia página.
+* Etiquetas: Exigiremos a nuestros redactores un mínimo de 10 etiquetas por cada contenido subido, para así poder darle un uso adecuado a la barra de búsqueda que situaremos dentro de la propia página.
 
 #### Herramientas útiles:
 
-Mapa del sitio: Aún por definir cual será la estructura final de nuestra web al 100%, trazaremos un minucioso mapa del sitio. Con ello, ayudaremos a los desarrolladores a poder localizarse de manera sencilla, además de servirnos para generar una tabla de página en la que llevar todo a un nivel superior.
+* Mapa del sitio: Aún por definir cual será la estructura final de nuestra web al 100%, trazaremos un minucioso mapa del sitio. Con ello, ayudaremos a los desarrolladores a poder localizarse de manera sencilla, además de servirnos para generar una tabla de página en la que llevar todo a un nivel superior.
 
 
-### REFERENCIAS
+### REFERENCIAS:
 
 * Alsilla Morino, Joan. Diseño e implementación de un portal web para una empresa de sistemas de control de iluminación. Universitat Autònoma de Barcelona. 2009. Disponible online: https://ddd.uab.cat/pub/trerecpro/2010/hdl_2072_48072/AlsinaMorilloJoanR-ETISa2008-09.pdf
   
 * Spolsky, Joel. Especificación funcional Quéhoraes.com. Disponible online: https://web.archive.org/web/20160604182621/http://spanish.joelonsoftware.com/PainlessSpecs/WhatTimeIsIt_Spanish.html 
+
