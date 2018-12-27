@@ -178,7 +178,7 @@ Según Lee Thomas, es necesario seguir los siguientes criterios para priorizar e
 * Mapa del sitio: Aún por definir cual será la estructura final de nuestra web al 100%, trazaremos un minucioso mapa del sitio. Con ello, ayudaremos a los desarrolladores a poder localizarse de manera sencilla, además de servirnos para generar una tabla de página en la que llevar todo a un nivel superior.
 
 
-### REFERENCIAS
+### REFERENCIAS:
 
 * Alsilla Morino, Joan. Diseño e implementación de un portal web para una empresa de sistemas de control de iluminación. Universitat Autònoma de Barcelona. 2009. Disponible online: https://ddd.uab.cat/pub/trerecpro/2010/hdl_2072_48072/AlsinaMorilloJoanR-ETISa2008-09.pdf
   
