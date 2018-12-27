@@ -113,13 +113,15 @@ Para ello se han elaborado tres personas que representan al conjunto de nuestro 
 
 * **Dolores** es ama de casa y no controla mucho el mundo web. Se siente segura utilizando la página web de las recetas de MJ ya que le resulta familiar y sencilla. Por lo demás prefiere no tocar mucho no vaya a desconfigurar el ordenador que tiene en casa. Para estar informada compra todos los días prensa escrita pero no le importaría consumir plataformas web siempre y cuando sean claras y sencillas. En la prensa escrita encuentra información de todo tipo pero no sobre temas de igualdad de género un tema que le apasiona pero del cual no hay la suficiente información. Conoce la página web hoyportimañanapormi.com pero le da cierto miedo ya que cree no ser muy sencilla de usar.
 
-* ![Juan](/1-estrategia/juan.png)
-* ![Paula](/1-estrategia/paula.png)
-* ![Dolores](/1-estrategia/dolores.png)
+![Juan](/1-estrategia/juan.png)
+![Paula](/1-estrategia/paula.png)
+![Dolores](/1-estrategia/dolores.png)
 
 La interfaz será diseñada para Dolores ya que es quien más problemas va a tener a la hora de navegar en el sitio web. Dolores solo consume prensa escrita ya que las webs le resultan complejas y por ello debemos de diseñar para ella ya que el tema le apasiona pero las webs le resultan complejas. Paula y Juan están muy familiarizados con este entorno y no tendrán ningún tipo de problema a la hora de navegar en nuestra web. 
 
 <table markdown="1"><tbody><tr><td markdown="1">
+
+## LEAN UX-CANVAS
 
 **Problema**
 
@@ -193,6 +195,7 @@ Si están dispuestos a participar de forma activa en la web
 Encuestas y entrevistas
 
 </td></tr></tbody></table>
+
 ## REFERENCIAS
 
 * CIES. Estudio de audiencia de medios. Euskadi. Acumulado del 2017.
