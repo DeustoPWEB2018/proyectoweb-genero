@@ -1,18 +1,16 @@
 # PLANO DE ESTRUCTURA 
 
-
 ## DISEÑO DE LA INTERACCIÓN
-**HOYPOTIMAÑANAPORMI.COM** es una página web relacionado con la igualdad de género. En este sitio web los usuarios van a poder acceder e interactuar de diversas formas y  a continuación se detallan.  
 
+**HOYPOTIMAÑANAPORMI.COM** es una página web relacionado con la igualdad de género. En este sitio web los usuarios van a poder acceder e interactuar de diversas formas y  a continuación se detallan.  
 
 **1.	ACCEDER**
 
-Primeramente, se encuentra el usuario que no se ha registrado en la página web. Este usuario tendrá opción de acceder y visualizar toda la información y contenido público. En el sitio web, encontrará diferentes secciones (noticias, artículos, reportajes, entrevistas historias reales, consejos, quiénes somos) y también tendrá opción de contactar con el sitio web, opción de registrarse y opción de log in. 
-
+Primeramente, se encuentra el usuario que no se ha registrado en la página web. Este usuario tendrá opción de acceder y visualizar toda la información y contenido público. En el sitio web, encontrará diferentes secciones (noticias, artículos, reportajes, entrevistas historias reales, consejos, quiénes somos y contacto) y también tendrán la  opción de registrarse y opción de log in. 
 
 **2.	REGISTRARSE**
 
-Por otro lado, se encuentra el usuario que accede a la página web y por primera vez quiere registrarse. Para ello, accederá a la opción “regístrate” donde accederá a un formulario. El formulario contiene las siguientes cuestiones:
+Por otro lado, se encuentra el usuario que accede a la página web y por primera vez quiere registrarse. Para ello, accederá a la opción “regístrate” donde accede a un formulario. El formulario contiene las siguientes cuestiones:
 
 -	Usuario
 -	Fecha de nacimiento
@@ -21,13 +19,12 @@ Por otro lado, se encuentra el usuario que accede a la página web y por primera
 -	Email  (de recuperación de contraseña)
 -	Contraseña
 
-Una vez que el usuario haya rellenado los datos correspondientes, aceptará la acción y y aparecerá a opción de “log in” donde deberá volver a añadir lo siguiente:
+Una vez que el usuario haya rellenado los datos correspondientes, acepta la acción y aparecerá la opción de “log in” donde deberá volver a añadir lo siguiente:
 
 -	Usuario
 -	Contraseña
 
-Después de hacer log in, el usuario tendrá opción de visualizar todo el contenido de la página web y también tendrá una opción donde podrá adjuntar contenido interesante que tenga intención de publicarlo en la página web (decisión final del administrador). La pestaña se llama “adjunta tus propuestas”.
-
+Después de hacer log in, el usuario tendrá opción de visualizar todo el contenido de la página web y también tendrá una opción donde podrá adjuntar contenido interesante que tenga intención de publicar en la página web (decisión final del administrador). La pestaña se llama “adjunta tus propuestas”.
 
 **3.	LOG IN**
 
@@ -38,7 +35,7 @@ En la página principal se encuentra la opción “Log in”, a está opción ac
 Cabe la posibilidad que el usuario en cuestión, no recuerde la contraseña, por ello tendrá la siguiente opción:
 -	He olvidado mi contraseña
 
-Cuando el usuario seleccione la opción “He olvidado mi contraseña” tendrá que introducir cual es el correo de recuperación que en su día introdujo en el registro. 
+Cuando el usuario seleccione la opción “He olvidado mi contraseña” tendrá que introducir cuál es el correo de recuperación que en su día introdujo en el registro. 
 
 -	Introducir email de recuperación
 
@@ -47,7 +44,7 @@ Inmediatamente una nueva contraseña se enviará al correo electrónico y en el 
 -	Usuario
 -	Contraseña de recuperación
 
-Una vez dentro, el usuario tendrá opción de acceder a todo el contenido publicado incluida a la opción llamada “Adjunta tus propuestas”:
+Una vez dentro, el usuario tendrá opción de acceder a todo el contenido publicado incluida a la opción llamada “Adjunta tus propuestas”, opción únicamente disponible para aquellos usuarios registrados. El resto no tendrán esa opción. 
 
 
 **Adjunta tus propuestas**
@@ -60,19 +57,19 @@ Dentro de la opción adjunta tus propuestas se encuentran diferentes secciones:
 
 - **Publicaciones:** finalmente se encuentra el apartado de publicaciones donde se encuentran, también ordenadas cronológicamente todas las propuestas finalmente publicadas. 
 
-
-
 ## ARQUITECTURA DE LA INFORMACIÓN
 
 ### CARD SORTING
 
 Para comprobar u obtener una visión subjetiva y diferente a la organización de los contenidos que se encuentran en nuestro sitio web, se va a optar por realizar un test denominado Card sorting, en el que se cuestionará a un determinado número de personas acerca de la organización de los contenidos del sitio web,  con el objetivo de mejorar la accesibilidad al mismo, facilitando así la navegación del usuario, que en definitiva es uno de los aspectos más importantes que deben tenerse en cuenta a la hora de realizar el diseño de la estructura de nuestro sitio web.   
 
-Se realizará un Open card sorting cuyo objetivo consistirá en conocer si la organización de elementos realizada previamente es la correcta. Es preferible que sean los propios usuarios los que decidan las categorías que deberían utilizarse para clasificar los contenidos, a modo de conseguir resultado más contrastables posteriormente.
+Se realizará un open card sorting cuyo objetivo consistirá en conocer el nivel de exactitud que hemos obtenido a la hora de nombrar los distintos contenidos que se publicarán en el sitio web, de tal forma que, se podrá comprobar la pertinencia de utilizar un determinado número de etiquetas, en base a las respuestas que se obtengan de los propios usuarios. 
 
-A su vez, se ha decidido realizar la prueba sobre los contenidos que pertenecen a la información dinámica del sitio web, puesto que son las categorías sobre las cuáles se van a realizar más modificaciones. La prueba se ha realizado a cuatro individuos, que han realizado la misma por parejas. En la siguiente tabla puede observarse los títulos de los contenidos a analizar, y cuál ha sido la clasificación previa que se ha realizado, para su posterior comparación con los resultados obtenidos, a modo de contrastarlos: 
+A su vez, se ha decidido realizar la prueba sobre los contenidos que pertenecen a la información dinámica del sitio web, puesto que son las categorías sobre las cuáles se van a realizar más modificaciones. La prueba se ha realizado a cuatro individuos, que han realizado la misma por parejas. 
 
-![Clasificación grupal](https://github.com/DeustoPWEB2018/proyectoweb-genero/blob/HernandezArrizabalaga-estructura/3-estructura/clasificaciongrupo.PNG)
+La tabla situada en la parte inferior muestra los resultados que se obtuvieron en la prueba del card sorting, de forma que la respuesta de cada pareja de usuarios se contabiliza a través de un voto. 
+
+![Clasificación usuarios](/3-estructura/clasificacionresultados.png)
 
 En la prueba, los encuestados han agrupado dichos contenidos en un total de 10 grupos, siendo estos los siguientes: 
 
@@ -87,11 +84,7 @@ En la prueba, los encuestados han agrupado dichos contenidos en un total de 10 g
 * Consejos
 * Casos Reales 
 
-Se ha optado por suprimir las categorías ”Temas de Actualidad” y “Reportajes de Personas” para incluirlas en “Noticias” y “Reportajes” dado el significado al que hacen referencia con esas palabras. 
-
-Los contenidos han sido clasificados de la siguiente manera: 
-
-![Clasificación usuarios](https://github.com/DeustoPWEB2018/proyectoweb-genero/blob/HernandezArrizabalaga-estructura/3-estructura/clasificacionresultados.PNG)
+Se ha optado por suprimir las categorías ”Temas de Actualidad” y “Reportajes de Personas” para incluirlas en “Noticias” y “Reportajes” dado el significado al que hacen referencia con esas palabras.  
 
 Antes de comenzar con el análisis de los resultados, cabe destacar que las características geográficas de los individuos que realizaron la prueba no eran las mismas en los cuatro casos, de ahí que cabe la posibilidad de que aquellos individuos no residentes en el País Vasco, le otorguen un diferente significado a una determinada cuestión, de ahí que es necesario interpretar los resultados obtenidos partiendo de la diferencia cultural existente en este caso. 
 
@@ -99,26 +92,29 @@ Hemos observado que han existido discrepancias notorias en los resultados obteni
  
 Principalmente ha existido una clara discrepancia entre las secciones de “Reportaje”, “Entrevistas” y “Noticias”, lo cual nos indica que, cuando llegue el momento de incluir los contenidos en su respectiva categoría, deberíamos acompañarlos por un subtítulo que se emplee a modo de enunciado, o que indique la sección a la que hace referencia, para no dar lugar a equívocos. 
 
+Tras ello, hemos decidido que el contenido de nuestro sitio web se clasificará a través de estas etiquetas:  
+
+* Artículos
+* Consejos
+* Entrevistas
+* Historias Reales 
+* Noticias
+* Reportajes
+
 ### CLASIFICAR EL CONTENIDO 
-
 Tras la realización del cardsorting y en vista de los resultados obtenidos, hemos llegado a diferentes conclusiones:
+Por un lado, en lo que a esquemas organizativos se refiere, tenemos claro que utilizaremos un esquema ambiguo o subjetivo. Nuestra página web va a ser de actualización continua. Es decir, los contenidos van a ir actualizándose de forma periódica, por lo que no tiene sentido implantar un esquema exacto y no dinámico. Concretamente, será un esquema de contenido por formato, siendo estos los especificados en el apartado anterior: Artículos, Consejos, entrevistas, historias reales, noticias y reportajes. 
 
-Por un lado, en lo que a esquemas organizativos se refiere, tenemos claro que utilizaremos un esquema ambiguo o subjetivo. Nuestra página web va a ser de actualización continua. Es decir, los contenidos van a ir actualizándose de forma periódica, por lo que no tiene sentido implantar un esquema exacto y no dinámico. 
+Somos conscientes de que este tipo de esquema es más complicado de administrar, teniendo en cuenta que la manera en la que se clasifican las noticias puede ser distinta dependiendo de las personas. El ejemplo más claro es lo que ocurrió en el card sorting entre los alumnos locales y extranjeros.
 
-Concretamente, será un esquema de contenido por temas, siendo estos los especificados en el apartado anterior: Noticias, Reportajes, Entrevistas...
-
-Somos conscientes de que este tipo de esquema es más complicado de administrar, teniendo en cuenta que para diferentes personas diferentes noticias pueden tener diferentes clasificaciones. 
-El ejemplo más claro es lo que ocurrió en el card sorting entre los alumnos de aquí y de fuera.
-
-En cuanto a la estructura otganizativa de nuestra página web, utilizaremos un modelo de base de datos. Es decir, tenemos el contenido antes de tener nuestra estructura hecha, por lo que la estructura será claramente de abajo arriba.
+En cuanto a la estructura organizativa de nuestra página web, utilizaremos un modelo de base de datos. Es decir, tenemos el contenido antes de tener nuestra estructura hecha, por lo que la estructura será claramente de abajo arriba.
 Todo ello llega impuesto en cierta medida también por los diferentes ámbitos en los que nos movemos (radio, audiovisual, prensa escrita, etc.), que son nuestra fuente de contenido principal y la base desde la que parte todo.
 
 Aún así, trataremos que desde que nuestra audiencia entre a nuestra página web, hasta el momento que encuentre lo que ha venido a buscar, el número de clicks sea el mínimo.
 
-
-
 ## DIAGRAMACIÓN
-A la hora de realizar los diagramas hemos creído conveniente crear cuatro dependiendo del usuario y de la forma en la que accederán a la web.
+
+A la hora de realizar los diagramas es conveniente crear cuatro dependiendo del usuario y de la forma en la que accederán a la web.
 
 Primero hemos creado un diagrama general donde el usuario deberá especificar que tipo de usuario es, ya que existen tres formas de acceder y por lo tanto tres tipos de usuarios:
 
@@ -134,6 +130,6 @@ Primero hemos creado un diagrama general donde el usuario deberá especificar qu
 
 **3.	Registrarse:** son aquellos usuarios que deciden unirse a nuestra web por primera vez y una vez registrados podrán obtener su log in y tener un acceso ilimitado al contenido de la web. 
 
-![Diagrama de flujo registrate](/3-estructura/Registrate.png)
+
 
 
