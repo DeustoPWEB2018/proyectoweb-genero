@@ -31,7 +31,7 @@ La cabecera de HOYPORTIMAÑANAPORMI.COM se compone de dos elementos: logotipo a 
 
 ## 2. GUÍA DE COLOR
 
-### 2.1.Los colores principales de la web:**
+### 2.1.Los colores principales de la web:
 
 **Rosa y azul**
 
@@ -66,6 +66,7 @@ Esta es la relación de los principales colores de la web, están descritos con 
 ![webcolor](/5-superficie/webcolor.png)
 
 
+
 ## 3. GUÍA DE FUENTES
 A continuación, se describe la tipografía empleada para cada apartado del sitio web, siempre pensando que sea una tipografía legible para el usuario.
 
@@ -75,7 +76,7 @@ Tanto para el texto del sitio web como para los botones “log in” y “regist
 ![helveticas](/5-superficie/helveticas.png)
 
 ### 3.2. Tipografía de las secciones
-Montserrat es la tipografía seleccionada para las secciones como noticias, reportajes, entrevistas, consejos, historias reales, quiénes somos y contacto. 
+Montserrat, negrita, tamaño 16 px, es la tipografía seleccionada para las secciones como noticias, reportajes, entrevistas, consejos, historias reales, quiénes somos y contacto. 
 
 ![montserrat](/5-superficie/montserrat.png)
 
@@ -91,6 +92,13 @@ El texto “Hoy por ti” contiene la tipografía **League Spartan** y el texto 
 ![montserrat](/5-superficie/montserrat.png)
   
 ### 3.4. Uso de la tipografía 
+**Títulos**: tipografía Montserrat, negrita y tamaño 18 px.
+**Subtítulos**: tipografía Helvética, normal y tamaño 16 px. 
+**Secciones del menú de navegación**: tipografía Montserrat, negrita, tamaño 16 px. 
+**Párrafos y cuerpo del texto**: tipografía Helvética, normal y tamaño 14 px. 
+
+Las mayúsculas en los títulos variarán según en qué sección se encuentren. Por ejemplo, en las secciones de “noticias”, “reportajes”, “artículos” y “entrevistas” los títulos irán en minúscula. Sin embargo, en las secciones de “historias reales” y “consejos” los títulos pueden ir en mayúsculas.
+
 A continuación se aprecia, de manera visual, qué tipo de tipografía se emplea en cada caso: logo, secciones, titulares, texto, etc.
 
 ![usotipo](/5-superficie/usotipo.png)
@@ -99,9 +107,11 @@ A continuación se aprecia, de manera visual, qué tipo de tipografía se emplea
 
 • El logotipo de nuestra empresa no se podrá colocar en el interior de las imágenes que se seleccionen. Es importante que se respete el logo en su forma y colores originales, sin quitarle importancia, por lo que es necesario que aparezca por si solo.
 
+Las imágenes deberán llevar, siempre que sea posible, tonalidades de color frías, que complementen al morado tanto del logo como de los contenidos. El morado deberá ser predominante en las fotos, que además, no admitirán filtros de colores convencionales (instagram, facebook...). Se tratará de buscar la mayor realidad posible dentro de las imágenes, por lo que, a menos que se trate de una campaña dirigida, las personas que aparezcan dentro de las mismas no deben estar posando. Sin embargo, es necesario que aparezcan personas.
+
 Se aconseja no utilizar imágenes excesivamente cargadas que se lleven la atención por delante de elementos como el texto o el propio logo.
 
-• Las fotos y los gráficos que fueron seleccionados que deberán ser publicados junto al logotipo han de tener la cualidad de mostrar realidades en relación a la desigualdad de género. Estas imagenes deberán seguir unos valores de igualdad y, en ningún caso se buscará dar morbo.
+• Las fotos y los gráficos que fueron seleccionados que deberán ser publicados junto al logotipo han de tener la cualidad de mostrar realidades en relación a la desigualdad de género. Estas imágenes deberán seguir unos valores de igualdad y, en ningún caso se buscará dar morbo.
 
 • Deberán evitarse imágenes explícitas de violencia, sangre y/o armas en elementos que tengan que ver con nuestra marca.
 
@@ -109,7 +119,9 @@ Se aconseja no utilizar imágenes excesivamente cargadas que se lleven la atenci
 ## 5. REJILLAS 
 
 ### - Portada
-En la cabecera de la página inicial, podrá encontrarse el logotipo y el nombre del sitio web, que estará situado en la parte izquierda, con una extensión de ocho unidades. Las cuatro unidades restantes corresponderán a etiquetas a través de las cuáles el usuario podrá acceder a iniciar sesión o a los procedimientos de registro necesarios. En el siguiente escalón, encontrará enlaces a través de imágenes, que le permitirán acceder a las redes sociales vinculadas al sitio web. Por último, en la parte inferior de la cabecera, encontrará las diferentes etiquetas que representarán a cada una de las categorías del sitio web, a través de las cuáles podrá accederse a cada una de ellas. En el cuerpo de la página, podrán encontrarse los diferentes contenidos que se encontrarán en el sitio web, a través de las cuáles se podrá acceder a través de un enlace contextual. La extensión de las columnas será combinada, en base a la importancia del contenido en cuestión, algo que será cambiante en base a lo publicado en determinados momentos. Los contenidos más característicos estarán representados por columnas de seis unidades, mientras que las menos relevantes tendrán unidades de dos o cuatro unidades, en base a la importancia que se le decida otorgar.       
+En la cabecera de la página inicial, podrá encontrarse el logotipo y el nombre del sitio web, que estará situado en la parte izquierda, con una extensión de ocho unidades. Las cuatro unidades restantes corresponderán a etiquetas a través de las cuáles el usuario podrá acceder a iniciar sesión o a los procedimientos de registro necesarios. En el siguiente escalón, encontrará enlaces a través de imágenes, que le permitirán acceder a las redes sociales vinculadas al sitio web. Por último, en la parte inferior de la cabecera, encontrará las diferentes etiquetas que representarán a cada una de las categorías del sitio web, a través de las cuáles podrá accederse a cada una de ellas. En el cuerpo de la página, podrán encontrarse los diferentes contenidos que se encontrarán en el sitio web, a través de las cuáles se podrá acceder a través de un enlace contextual. La extensión de las columnas será combinada, en base a la importancia del contenido en cuestión, algo que será cambiante en base a lo publicado en determinados momentos. Los contenidos más característicos estarán representados por columnas de seis unidades, mientras que las menos relevantes tendrán unidades de dos o cuatro unidades, en base a la importancia que se le decida otorgar.
+
+![0portada](/5-superficie/0portada.PNG)       
 
 ### - Log In
 La página de Log-in estará formada por tres columnas horizontales de cuatro unidades de extensión. En ella, el usuario podrá acceder a su página de perfil o registrarse en el sitio web. En ambos casos, sea cual sea la opción escogida por el usuario, la página a la que le llevará tendrá una única columna, también de cuatro unidades, en la que se le ofrecerá al usuario de introducir sus datos de perfil o por el contrario, introducir sus datos personales para proceder a la creación de un usuario. 
@@ -173,5 +185,3 @@ Dirección general
 - Kezz Bracey, 6 Beginner "Safety First" Color Guidelines for the Web.
 - Robert Bringhurst, Richard Rutter, The Elements of Typographic Style Applied to the Web.
 - Thomas Cannon, Una introducción a la teoría del color para diseñadores web.
-
-
