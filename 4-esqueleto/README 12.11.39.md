@@ -90,6 +90,7 @@ Se ha realizado un ejercicio de listado libre para tratar de expandir las posibi
 * La historia de Jennifer
 * Izaskun Landaia: “Debemos dar un ejemplo en materia de igualdad”
 * ¿Dónde está el límite entre amabilidad y acoso?
+
 ![adjunta](/4-esqueleto/adjunta.png)
 
 La prueba consistía en cuestionar a cuatro individuos acerca de cuáles podían ser las etiquetas que estuvieran relacionadas con cada uno de estos contenidos:
