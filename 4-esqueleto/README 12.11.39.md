@@ -98,11 +98,13 @@ La prueba consistía en cuestionar a cuatro individuos acerca de cuáles podían
 * La historia de Jennifer (historias, sucesos reales, personas)
 * Izaskun Landaia: “Debemos dar un ejemplo en materia de igualdad” (entrevistas, igualdad, instituciones, defensa, educación, )
 * ¿Dónde está el límite entre amabilidad y acoso? (consejos, opinión, reportajes,)
+
 ![tuspropuestas](/4-esqueleto/tuspropuestas.png)
 
 ## DISEÑO DE LA INTERFAZ
  
 A continuación se encuentra el diseño de los elementos de la interfaz con el objetivo de facilitar la interacción al usuario con la funcionalidad del sitio web **HOYPORTIMAÑANAPORMI.COM**. Existen diversas maneras para diseñar el diseño de la interfaz, *Wireframes* es un ejemplo que permite separar cada página del sitio web, se observan la cantidad de las funciones disponibles, las prioridades relativas de la información y las funciones, las reglas para mostrar ciertos tipos de información, el efecto de los distintos escenarios, etc. 
+
 ![tuspublicaciones](/4-esqueleto/tuspublicaciones.png)
 
 A continuación se detalla el diseño de la interfaz del sitio web. 
@@ -148,6 +150,7 @@ Dentro de cada temática existirán subtemas que podrán ser seleccionados a tra
 Cabe la posibilidad que el usuario no se acuerde de su contraseña de acceso, en consecuencia tiene la opción "He olvidado mi contraseña", con la que mediante dos pasos sencillos podrá obtener una nueva. 
 
 ![olvido](/4-esqueleto/olvido.png)
+
 #### Variedades de Etiquetas
 En la Web, nos encontramos regularmente con etiquetas en un formato textual. Trataremos de usar las etiquetas de texto ya que siguen siendo las más comunes, a pesar de que los contenidos de carácter visual hayan ganado mucho peso en la web:
 
