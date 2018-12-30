@@ -1,19 +1,14 @@
-# Título completo del tema (grupo 0)
+# Grupo 1: Igualdad de Género 
 
 ----------------------------
 
-Repositorio tipo para el proyecto en equipos base. En este repositorio alojaréis el proyecto web de vuestro grupo para la asignatura Proyectos para la web.
+En este repositorio quedará alojado el proyecto sobre la igualdad de género que hemos realizado para la asignatura Proyectos para la web. 
 
-:point_right: [Instrucciones para el uso del repositorio del proyecto web](instrucciones.md) :point_left:
-
-Este archivo `README.md` en la raíz del repositorio debería contener la introducción, presentación del proyecto etc.
-
-Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas de guiones (incluidas) cuando iniciéis la redacción del proyecto, y redactad vuestra introducción antes de la Tabla de Contenidos. Añadid los nombres de todos los miembros del equipo al final de esta página.
+En la parte inferior, podrá encontrar los documentos correspondientes a las diferentes entregas que hemos realizado a lo largo de este curso. 
 
 (vuestra introducción)
 
 ----------------------------
-
 
 ## Tabla de contenidos
 
@@ -25,6 +20,7 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 
 ## Participantes en el equipo
 
-- Hernández Arrizabalaga, Iñigo 
-- Pérez Maza, Marina
-- Jon
+- Cantero Iruretagoyena, Jon 
+- Curiel Ayuso, Ander
+- Hernández Arrizabalaga, Iñigo
+- Pérez Maza, Marina 
