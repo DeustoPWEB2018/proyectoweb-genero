@@ -5,6 +5,25 @@
 ### Organización de ruta
 En este apartado, nuestra página contará con un elemento de localización, que permitirá a cada usuario saber dónde se encuentra en cada momento durante su navegación, pudiendo volver hacia atrás a través de esta ruta con hipervínculos.
 
+## DISEÑO DE LA INTERFAZ 
+A continuación se encuentra el diseño de los elementos de la interfaz con el objetivo de facilitar la interacción al usuario con la funcionalidad del sitio web **HOYPORTIMAÑANAPORMI.COM**. Existen diversas maneras para disear el diseño de la interfaz, *Wireframes* es un ejemplo que permite separar cada página del sitio web, se observan la cantidad de las funciones disponibles, las prioridades relativas de la información y las funciones, las reglas para mostrar ciertos tipos de información, el efecto de los distintos escenarios, etc. 
+
+A continuación se detalla el diseño de la interfaz del sitio web. 
+
+### 1. ACCEDER
+En la página principal el usuario no registrado encontrará todo el contenido a su disposición, para leer, escuchar y ver. En el siguiente *Wireframe* se aprecia el diseño de la interfaz. Cuando se hace referencia a "Acceder", en realidad se hace referencia cuando un usuario se mete en la página web **HOYPORTIMAÑANAPORMI.COM**, ¿qué es lo que se va a encontrar? A continuación:
+
+#### *Wireframe* de "ACCEDER"
+Al comienzo el usuario encontrará tres opciones posible: acceder, log in, registrarse y contacta con nosotros. 
+
+![acceder](/4-esqueleto/acceso.png)
+
+Los usuarios no registrados y que directamente accedan al contenido de la página web se encontrarán la siguiente portada con las siguientes secciones.
+
+![NOREGISTRADOS](/4-esqueleto/portada.png)
+
+![SECCIONES](/4-esqueleto/secciones.png)
+
 Además, la página también contará con un Mapa del Sitio. Con él, permitiremos al usuario en cuestión saltar a la página que desee.
 
 ### Navegación 
@@ -66,10 +85,12 @@ Teniendo en cuenta las categorías del sitio web: (noticias, artículos, reporta
 
 Se ha realizado un ejercicio de listado libre para tratar de expandir las posibilidades de etiquetado que ofrecen los contenidos que se publicarán en el sitio web. Para ello, se han escogido al azar cuatro de los contenidos que formaron la lista de 20 contenidos que se utilizaron para la prueba de card sorting. Los cuatro contenidos escogidos son los siguientes: 
 
+
 * Conociendo a Clara Campoamor
 * La historia de Jennifer
 * Izaskun Landaia: “Debemos dar un ejemplo en materia de igualdad”
 * ¿Dónde está el límite entre amabilidad y acoso?
+![adjunta](/4-esqueleto/adjunta.png)
 
 La prueba consistía en cuestionar a cuatro individuos acerca de cuáles podían ser las etiquetas que estuvieran relacionadas con cada uno de estos contenidos:
 
@@ -77,11 +98,12 @@ La prueba consistía en cuestionar a cuatro individuos acerca de cuáles podían
 * La historia de Jennifer (historias, sucesos reales, personas)
 * Izaskun Landaia: “Debemos dar un ejemplo en materia de igualdad” (entrevistas, igualdad, instituciones, defensa, educación, )
 * ¿Dónde está el límite entre amabilidad y acoso? (consejos, opinión, reportajes,)
-
+![tuspropuestas](/4-esqueleto/tuspropuestas.png)
 
 ## DISEÑO DE LA INTERFAZ
  
 A continuación se encuentra el diseño de los elementos de la interfaz con el objetivo de facilitar la interacción al usuario con la funcionalidad del sitio web **HOYPORTIMAÑANAPORMI.COM**. Existen diversas maneras para diseñar el diseño de la interfaz, *Wireframes* es un ejemplo que permite separar cada página del sitio web, se observan la cantidad de las funciones disponibles, las prioridades relativas de la información y las funciones, las reglas para mostrar ciertos tipos de información, el efecto de los distintos escenarios, etc. 
+![tuspublicaciones](/4-esqueleto/tuspublicaciones.png)
 
 A continuación se detalla el diseño de la interfaz del sitio web. 
 
@@ -109,11 +131,25 @@ Todos los campos del formulario son obligatorios de rellenar.
 ### 3. LOG IN: INICIAR SESIÓN
 A continuación, se observa las opciones y funciones que hay dentro de "Log in", que significa "Iniciar sesión".
 
+## DISEÑO DE LA NAVEGACIÓN 
+
+### Organización de ruta
+En este apartado, nuestra página contará con un elemento de localización, que permitirá a cada usuario saber dónde se encuentra en cada momento durante su navegación, pudiendo volver hacia atrás a través de esta ruta con hipervínculos.
+
+Además, la página también contará con un Mapa del Sitio. Con él, permitiremos al usuario en cuestión saltar a la página que desee.
+
+### Navegación 
+Así mismo, también hemos decidido que nuestra página sea de navegación a través de barras y pestañas. Concretamente, hemos decidido que lleve un menú dinámico dentro de ella. 
+
+Dentro de cada temática existirán subtemas que podrán ser seleccionados a través de pop up menus. Esto hará que nuestra web posea un aspecto moderno y sencillo de llevar.
+
 ![login](/4-esqueleto/login.png)
 
 Cabe la posibilidad que el usuario no se acuerde de su contraseña de acceso, en consecuencia tiene la opción "He olvidado mi contraseña", con la que mediante dos pasos sencillos podrá obtener una nueva. 
 
 ![olvido](/4-esqueleto/olvido.png)
+#### Variedades de Etiquetas
+En la Web, nos encontramos regularmente con etiquetas en un formato textual. Trataremos de usar las etiquetas de texto ya que siguen siendo las más comunes, a pesar de que los contenidos de carácter visual hayan ganado mucho peso en la web:
 
 Inmediatamente una nueva contraseña se le enviará al email de recuperación del usuario. En el correo en cuestión, le aparecerá la nueva contraseña con 4 dígitos y a continuación un acceso directo para iniciar sesión con esa nueva contraseña: poder iniciar sesión con la nueva contraseña haz clic *aquí*.
 
@@ -122,6 +158,10 @@ Inmediatamente una nueva contraseña se le enviará al email de recuperación de
 Una vez que el usuario inicie sesión y por lo tanto, acceda a su cuenta personal encontrará a su disposición el sitio web con el contenido y también un apartado llamado "Adjunta tus propuestas". 
 
 #### *Wireframe* de "LOG IN" 
+
+#### Creación de nuevos sistemas de etiquetado
+
+#### Fuentes para crear sistemas de etiquetado
 
 ![logins](/4-esqueleto/logins.png)
 
@@ -143,5 +183,3 @@ El tic verde indica que el administrador del sitio web ha revisado los archivos 
 ![tuspublicaciones](/4-esqueleto/tuspublicaciones.png)
 
 En el apartado “Tus publicaciones” se encuentran todas aquellas propuestas finalmente publicadas. 
-
-
