@@ -40,7 +40,7 @@ En la Web, nos encontramos regularmente con etiquetas en un formato textual. Tra
 
 Las categorías del sitio web serán las siguientes: 
 * Artículos
- *Consejos
+* Consejos
 * Entrevistas
 * Historias Reales 
 * Noticias
