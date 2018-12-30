@@ -31,7 +31,7 @@ La cabecera de HOYPORTIMAÑANAPORMI.COM se compone de dos elementos: logotipo a 
 
 ## 2. GUÍA DE COLOR
 
-### 2.1.Los colores principales de la web:**
+### 2.1.Los colores principales de la web:
 
 **Rosa y azul**
 
