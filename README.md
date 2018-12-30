@@ -6,8 +6,6 @@ En este repositorio quedará alojado el proyecto sobre la igualdad de género qu
 
 En la parte inferior, podrá encontrar los documentos correspondientes a las diferentes entregas que hemos realizado a lo largo de este curso. 
 
-(vuestra introducción)
-
 ----------------------------
 
 ## Tabla de contenidos
